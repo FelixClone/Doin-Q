@@ -199,6 +199,7 @@ while True:
                 print("")
                 for i in range(len(ddd92)):
                     print(ddd92[i])
+                    time.sleep(0.01)
             elif mod_menu == 3:
                 print("[Modo ajuda]")
                 print("O modo simples ele foi criado para ajudar o usuario a identificar o estado pelo ddd de modo mais simples e rapido")
