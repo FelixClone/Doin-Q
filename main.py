@@ -1,6 +1,6 @@
 import BrazilFlag as Flag
 import ListDataBase as Data
-import Ex_DDD_Funcion as ExF
+import Ex_DDD_Function as ExF
 import Options
 
 
@@ -12,6 +12,7 @@ while True:
 
     search = input("\nO que gostaria de pesquisar?\n")
     if search == "estado":
+
     #Stades decision
 
         state = input("\npor favor digite o nome do estado:\n ")
@@ -92,27 +93,33 @@ while True:
 
 
 # DDD
+
     elif search == "ddd":
         ddd_again = int(input("\npor favor digite o ddd: "))
         if ddd_again == 92:
-            ExF.Funcion92()
+            ExF.Function92()
         elif ddd_again == 97:
-            ExF.Funcion97()
+            ExF.Function97()
         elif ddd_again == 71:
-            ExF.Funcion71()
+            ExF.Function71()
         elif ddd_again == 73:
-            ExF.Funcion73()
+            ExF.Function73()
 
 # Egg
 
     elif search == "bandeira":
         Flag.BrazilFlag()
+
+# Options
+
     elif search == "--help":
         Options.OP()
 
-# List ddd and states sequence 
+
     elif search == "sair":
         break
+
+# List ddd and states sequence
 
     elif search == "lista":
         ddes = input("Gostaria de ver a lista de estado ou de ddd?\n")

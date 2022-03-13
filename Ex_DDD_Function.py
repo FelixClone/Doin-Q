@@ -1,6 +1,6 @@
 import Ex_DDD_City as Ex
 
-def Funcion92():
+def Function92():
     print(" --------------------")
     print("|  Modo simples  [1] |")
     print("|  Modo avançado [2] |")
@@ -20,7 +20,7 @@ def Funcion92():
         print("O modo avançado já é para aqueles que querem saber mais detalhes sobre o DDD como por exemplo a cidade")
     else:
         print("Você escreveu algo errado ❌")
-def Funcion97():
+def Function97():
     print(" --------------------")
     print("|  Modo simples  [1] |")
     print("|  Modo avançado [2] |")
@@ -40,7 +40,7 @@ def Funcion97():
         print("O modo avançado já é para aqueles que querem saber mais detalhes sobre o DDD como por exemplo a cidade")
     else:
         print("Você escreveu algo errado ❌")
-def Funcion71():
+def Function71():
     print(" --------------------")
     print("|  Modo simples  [1] |")
     print("|  Modo avançado [2] |")
@@ -59,7 +59,7 @@ def Funcion71():
         print("O modo avançado já é para aqueles que querem saber mais detalhes sobre o DDD como por exemplo a cidade")
     else:
         print("Você escreveu algo errado ❌")
-def Funcion73():
+def Function73():
     print(" --------------------")
     print("|  Modo simples  [1] |")
     print("|  Modo avançado [2] |")
