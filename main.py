@@ -4,9 +4,9 @@ import Ex_DDD_Function as ExF
 import Options
 
 
-print("----------")
-print("De onde é?")
-print("----------\n")
+print("--------------------------------------------------------------")
+print("                           Doin-Q")
+print("--------------------------------------------------------------\n")
 
 while True:
 
@@ -15,7 +15,7 @@ while True:
 
     #Stades decision
 
-        state = input("\npor favor digite o nome do estado:\n ")
+        state = input("\nPor favor digite o nome do estado:\n")
         if state == "acre":
             print("O DDD correspondente ao Acre é:\nDDD 68")
         elif state == "alagoas":
@@ -104,6 +104,8 @@ while True:
             ExF.Function71()
         elif ddd_again == 73:
             ExF.Function73()
+        elif ddd_again == 74:
+            ExF.Function74()
 
 # Egg
 
@@ -131,7 +133,8 @@ while True:
             Data.StatesList()
 
     else:
+        print("Tem certeza que digitou,", search, " corretamente ou no lugar certo?")
         print("Você escreveu algo errado 🤔")
-        print("Não se preocupe, para saber as opções basta escrever: \n--help")
+        print("Mas não se preocupe, para saber as opções basta escrever: \n--help")
 
 

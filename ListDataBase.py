@@ -36,48 +36,63 @@ Sao_Paulo = [11, 12, 13, 14, 15, 16, 17, 18, 19]
 def AM():
     for i in range(len(Amazonas)):
         print("DDD ",Amazonas[i])
+        time.sleep(0.01)
 def BA():
     for i in range(len(Bahia)):
         print("DDD ",Bahia[i])
+        time.sleep(0.01)
 def CE():
     for i in range(len(Ceara)):
         print("DDD ",Ceara[i])
+        time.sleep(0.01)
 def ES():
     for i in range(len(Espirito_Santo)):
         print("DDD ",Espirito_Santo[i])
+        time.sleep(0.01)
 def GO():
     for i in range(len(Goias)):
         print("DDD ",Goias[i])
+        time.sleep(0.01)
 def MA():
     for i in range(len(Maranhao)):
         print("DDD ",Maranhao[i])
+        time.sleep(0.01)
 def MT():
     for i in range(len(Mato_Grosso)):
         print("DDD ",Mato_Grosso[i])
+        time.sleep(0.01)
 def MG():
     for i in range(len(Minas_Gerais)):
         print("DDD ",Minas_Gerais[i])
+        time.sleep(0.01)
 def PA():
     for i in range(len(Para)):
         print("DDD ",Para[i])
+        time.sleep(0.01)
 def PN():
     for i in range(len(Parana)):
         print("DDD ",Parana[i])
+        time.sleep(0.01)
 def PI():
     for i in range(len(Piaui)):
         print("DDD ",Piaui[i])
+        time.sleep(0.01)
 def RJ():
     for i in range(len(Rio_de_Janeiro)):
         print("DDD ",Rio_de_Janeiro[i])
+        time.sleep(0.01)
 def RS():
     for i in range(len(Rio_Grande_do_Sul)):
         print("DDD ",Rio_Grande_do_Sul[i])
+        time.sleep(0.01)
 def SC():
     for i in range(len(Santa_Catarina)):
         print("DDD ",Santa_Catarina[i])
+        time.sleep(0.01)
 def SP():
     for i in range(len(Sao_Paulo)):
         print("DDD ",Sao_Paulo[i])
+        time.sleep(0.01)
 
 # States and DDD
 def StatesList():

@@ -38,8 +38,18 @@ ddd73 = [
     "Vereda", "Wenceslau Guimarães"
     ]
 ddd74 = [
+    "América Dourada", "Andorinha", "Antônio Gonçalves", "Baixa Grande", "Barra", "Barra Do Mendes",
+    "Barro Alto", "Caém", "Cafarnaum", "Caldeirão Grande", "Campo Alegre De Lourdes", "Campo Formoso",
+    "Canarana", "Capim Grosso", "Casa Nova", "Central","Curaçá","Filadélfia","Gentio Do Ouro", "Ibipeba",
+    "Ibititá", "Irecê", "Itaguaçu Da Bahia", "Itiúba", "Jacobina", "Jaguarari", "João Dourado",
+    "Juazeiro", "Jussara", "Lapão", "Macajuba", "Mairi", "Miguel Calmon", "Mirangaba",
+    "Morro Do Chapéu", "Mulungu Do Morro", "Mundo Novo", "Ourolândia", "Pilão Arcado", "Pindobaçu",
+    "Piritiba", "Ponto Novo", "Presidente Dutra", "Quixabeira", "Remanso", "São Gabriel",
+    "São José Do Jacuípe", "Saúde", "Senhor Do Bonfim", "Sento Sé", "Serrolândia", "Sobradinho",
+    "Tapiramutá", "Uauá", "Uibaí", "Umburanas", "Várzea Da Roça", "Várzea Do Poço", "Várzea Nova",
+    "Xique-Xique"
+    ]
 
-]
 ddd75 = [
 
 ]
@@ -62,4 +72,8 @@ def ExDDD71():
 def ExDDD73():
     for i in range(len(ddd73)):
         print(ddd73[i])
+        time.sleep(0.01)
+def ExDDD74():
+    for i in range(len(ddd74)):
+        print(ddd74[i])
         time.sleep(0.01)
