@@ -1,6 +1,14 @@
 # Doin-Q
+<h4 align="center">
+   ⚠ Projeto em andamento ⚠
+</h4>
 
-Doin-Q é uma soloção rapida e pratica com uma dose de minimalismo para aqueles que queres saber mais
+<p align="center">
+<a href="#funcionalidades">Funcionalidades</a> ⚬
+<a href="#pre-requisitos">Pre-requisitos</a> ⚬
+<a href="#visualização-do-aplicativo">Visualização do aplicativo</a>
+
+Doin-Q é uma soloção rapida e pratica com  uma dose de minimalismo para aqueles que queres saber mais
 sobre o DDD de cada estado, facilitando saber de onde as pessoas estão te ligando
 #### (Projeto Pessoal)
 
@@ -12,17 +20,24 @@ print("Hello World!")
 
 O objetivo desse pequeno app de terminal é apenas amostrar de onde estão te ligando
 
-### Funcionalidades:
-- Estados
-    - DDD pertencentes ao estado escolhido
-- DDD
-    - DDD simples
-        - Mostra o estado apenas
-    - DDD avançado
-        - Mostra o estado e as cidades do DDD
+## Funcionalidades:
+- Pesquisar **DDD** pelo Estado
+- Pesquisar pelo **DDD**
+- DDD modo simples
+    - Mostra o estado apenas
+- DDD modo avançado
+    - Mostra o estado e as cidades do DDD
 
 Ao iniciar o aplicativo escreva: 
 ```
 --help
 ```
 para saber as opções
+
+## Pre-requisitos
+
+Para o aplivativo poder rodar em seu computador, você precisara do **python3** 
+
+## Visualização do aplicativo
+
+![GIF](Doin-Q_Apresenta%C3%A7%C3%A3o.gif)

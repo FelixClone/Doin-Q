@@ -106,6 +106,12 @@ while True:
             ExF.Function73()
         elif ddd_again == 74:
             ExF.Function74()
+        elif ddd_again == 75:
+            ExF.Function75()
+        elif ddd_again == 77:
+            ExF.Function77()
+        elif ddd_again == 85:
+            ExF.Function85()
 
 # Egg
 
