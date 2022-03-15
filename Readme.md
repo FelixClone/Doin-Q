@@ -40,4 +40,4 @@ Para o aplivativo poder rodar em seu computador, você precisara do **python3**
 
 ## Visualização do aplicativo
 
-![GIF](Doin-Q_Apresenta%C3%A7%C3%A3o.gif)
+![GIF](https://im5.ezgif.com/tmp/ezgif-5-4f7b7d0970.gif)
