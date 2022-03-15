@@ -9,6 +9,7 @@ def OP():
     print("|  PESQUISAR POR DDD    | ddd           |")
     print("|  BANDEIRA DO BRASIL   | bandeira      |")
     print("|  SAIR DO APP          | sair          |")
-    print("|  LISTAS               | lista         |")
+    print("|  LISTAS DE ESTADOS    | estado --lista|")
+    print("|  LISTAS DE DDD        | ddd --lista   |")
     print("|  AJUDA                | --help        |")
     print(" --------------------------------------- ")

@@ -118,6 +118,9 @@ while True:
             ExF.Function27()
         elif ddd_again == 28:
             ExF.Function28()
+        else:
+            print(ddd_again, "não foi encontrado 🤔")
+            print("Motivos: \nO ddd ainda não foi adicionado\nDDD não existe\nPor favor escreva lista ddd")
 # Egg
 
     elif search == "bandeira":
@@ -134,18 +137,15 @@ while True:
 
 # List ddd and states sequence
 
-    elif search == "lista":
-        ddes = input("Gostaria de ver a lista de estado ou de ddd?\n")
-        if ddes == "ddd":
-            print("")
-            Data.DDDList()
-        elif ddes == "estado":
-            print("")
-            Data.StatesList()
-
+    elif search == "ddd --lista":
+        print("")
+        Data.DDDList()
+    
+    elif search == "estado --lista":
+        print("")
+        Data.StatesList()
     else:
         print("Tem certeza que digitou,", search, " corretamente ou no lugar certo?")
         print("Você escreveu algo errado 🤔")
         print("Mas não se preocupe, para saber as opções basta escrever: \n--help")
-
 
