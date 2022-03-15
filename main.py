@@ -137,11 +137,11 @@ while True:
 
 # List ddd and states sequence
 
-    elif search == "ddd --lista":
+    elif search == "ddd --list":
         print("")
         Data.DDDList()
     
-    elif search == "estado --lista":
+    elif search == "estado --list":
         print("")
         Data.StatesList()
     else:
