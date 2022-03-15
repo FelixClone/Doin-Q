@@ -112,7 +112,12 @@ while True:
             ExF.Function77()
         elif ddd_again == 85:
             ExF.Function85()
-
+        elif ddd_again == 88:
+            ExF.Function88()
+        elif ddd_again == 27:
+            ExF.Function27()
+        elif ddd_again == 28:
+            ExF.Function28()
 # Egg
 
     elif search == "bandeira":

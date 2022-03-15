@@ -19,7 +19,7 @@ ddd71 = [
     "Camacari", "Candeias", "Catu", "Dias D'Avila", "Itaparica", "Lauro De Freitas",
     "Madre De Deus","Mata De São João", "Pojuca", "Salvador", "São Francisco Do Conde",
     "São Sebastião Do Passe", "Simões Filho", "Vera Cruz"
-    ]
+]
 ddd73 = [
     "Aiquara", "Alcobaça", "Almadina", "Apuarema", "Arataca", "Aurelino Leal", 
     "Barra Do Rocha", "Barro Preto", "Belmonte", "Buerarema", "Camacan", "Camamu",
@@ -37,7 +37,7 @@ ddd73 = [
     "Santa Cruz Da Vitória", "Santa Inês", "Santa Luzia", "São José Da Vitória", 
     "Teixeira De Freitas", "Teolândia", "Ubaitaba", "Ubatã", "Una", "Uruçuca", 
     "Vereda", "Wenceslau Guimarães"
-    ]
+]
 ddd74 = [
     "América Dourada", "Andorinha", "Antônio Gonçalves", "Baixa Grande", "Barra", "Barra Do Mendes",
     "Barro Alto", "Caém", "Cafarnaum", "Caldeirão Grande", "Campo Alegre De Lourdes", "Campo Formoso",
@@ -49,7 +49,7 @@ ddd74 = [
     "São José Do Jacuípe", "Saúde", "Senhor Do Bonfim", "Sento Sé", "Serrolândia", "Sobradinho",
     "Tapiramutá", "Uauá", "Uibaí", "Umburanas", "Várzea Da Roça", "Várzea Do Poço", "Várzea Nova",
     "Xique-Xique"
-    ]
+]
 ddd75 = [
     "Abaré", "Acajutiba", "Adustina", "Água Fria", "Alagoinhas", "Amargosa", "Amélia Rodrigues", "Andaraí",
     "Anguera", "Antas", "Antônio Cardoso", "Aporá", "Araças", "Araci", "Aramari", "Aratuípe", "Banzaê",
@@ -91,7 +91,7 @@ ddd77 = [
     "Santana", "São Desidério","São Félix Do Coribe", "Sebastião Laranjeiras", "Serra Do Ramalho",
     "Serra Dourada", "Sítio Do Mato", "Tabocas Do Brejo Velho", "Tanhaçu", "Tanque Novo", "Tremedal",
     "Urandi", "Vitória Da Conquista", "Wanderley"
-    ]
+]
 ddd85 = [
     "Acarapé", "Apuiarés", "Aquiraz", "Aracoiaba", "Aratuba", "Barreira", "Baturité", "Beberibe", "Canindé",
     "Capistrano", "Caridade", "Cascavel", "Caucaia", "Chorozinho", "Eusébio", "Fortaleza","General Sampaio",
@@ -99,6 +99,50 @@ ddd85 = [
     "Ocara", "Pacajus", "Pacatuba", "Pacoti", "Palmácia", "Paracuru", "Paraipaba", "Paramoti", "Pentecoste",
     "Pindoretama", "Redenção", "São Gonçalo Do Amarante", "São Luís Do Curu", "Tejuçuoca", "Trairi", "Tururu",
     "Umirim", "Uruburetama"
+]
+ddd88 = [
+    "Abaiara", "Acaraú", "Acopiara", "Aiuaba", "Alcântaras", "Altaneira", "Alto Santo", "Amontada",
+    "Antonina Do Norte", "Aracati", "Ararendá", "Araripe", "Arneiroz", "Assaré", "Aurora", "Baixio",
+    "Banabuiú", "Barbalha", "Barro", "Barroquinha", "Bela Cruz", "Boa Viagem", "Brejo Santo", "Camocim",
+    "Campos Sales", "Cariré", "Caririaçu", "Cariús", "Cariús", "Carnaubal", "Catarina", "Catunda",
+    "Cedro", "Chaval", "Choró", "Coreaú", "Crateús", "Crato", "Croatá", "Cruz", "Deputado Irapuan Pinheiro",
+    "Ererê", "Farias Brito", "Forquilha", "Fortim", "Frecheirinha", "Graça", "Granja", "Granjeiro", "Groaíras",
+    "Guaraciaba Do Norte", "Hidrolândia", "Ibaretama", "Ibiapina", "Ibicuitinga", "Icapuí", "Icó", "Iguatu",
+    "Independência", "Ipaporanga", "Ipaumirim", "Ipu", "Ipueiras", "Iracema","Irauçuba", "Itaiçaba", "Itapipoca",
+    "Itapiúna", "Itarema", "Itatira", "Jaguaretama", "Jaguaribara", "Jaguaribe", "Jaguaruana", "Jardim", "Jati",
+    "Jijoca De Jericoacoara", "Juazeiro Do Norte", "Jucás", "Lavras Da Mangabeira","Limoeiro Do Norte", "Madalena",
+    "Marco", "Martinópole", "Massapê", "Meruoca", "Milagres", "Milhã", "Miraíma", "Missão Velha", "Mombaça",
+    "Monsenhor Tabosa", "Morada Nova", "Moraújo", "Morrinhos", "Mucambo","Nova Olinda", "Nova Russas", "Novo Oriente",
+    "Orós", "Pacujá", "Palhano", "Parambu", "Pedra Branca", "Penaforte", "Pereiro", "Piquet Carneiro", "Pires Ferreira",
+    "Poranga", "Porteiras", "Potengi", "Potiretama","Quiterianópolis", "Quixadá", "Quixelô", "Quixeramobim", "Quixeré",
+    "Reriutaba", "Russas", "Saboeiro", "Salitre", "Santa Quitéria", "Santana Do Acaraú", "Santana Do Cariri", "São Benedito",
+    "São João Do Jaguaribe", "Senador Pompeu", "Senador Sá", "Sobral", "Solonópole", "Tabuleiro Do Norte", "Tamboril", "Tarrafas",
+    "Tauá", "Tianguá", "Ubajara", "Umari", "Uruoca", "Varjota", "Várzea Alegre", "Viçosa Do Ceará"
+]
+ddd27 = [
+    "Afonso Cláudio", "Água Doce Do Norte", "Águia Branca", "Alfredo Chaves", "Alto Rio Novo", "Aracruz",
+    "Barra De São Francisco", "Boa Esperança", "Brejetuba", "Cariacica", "Colatina", "Conceição Da Barra",
+    "Domingos Martins", "Ecoporanga", "Fundão", "Governador Lindenberg","Guarapari", "Ibiraçu", "Itaguaçu",
+    "Itarana", "Jaguaré", "João Neiva", "Laranja Da Terra", "Linhares", "Mantenópolis", "Marechal Floriano",
+    "Marilândia", "Montanha", "Mucurici", "Nova Venécia", "Pancas", "Pedro Canário","Pinheiros", "Ponto Belo",
+    "Rio Bananal", "Santa Leopoldina", "Santa Maria De Jetibá", "Santa Teresa", "São Domingos Do Norte",
+    "São Gabriel Da Palha", "São Mateus", "São Roque Do Canaã", "Serra", "Sooretama", "Viana", "Vila Pavão",
+    "Vila Valério", "Vila Velha", "Vitória"
+]
+ddd28 = [
+    "Alegre", "Anchieta", "Apiacá", "Atilio Vivacqua", "Bom Jesus Do Norte", "Cachoeiro De Itapemirim", "Castelo", "Conceição Do Castelo",
+    "Divino De São Lourenço", "Dores Do Rio Preto", "Guaçuí", "Ibatiba", "Ibitirama", "Iconha", "Irupi", "Iúna","Jerônimo Monteiro",
+    "Marataizes", "Mimoso Do Sul", "Muniz Freire", "Muqui", "Piúma", "Presidente Kennedy", "Rio Novo Do Sul", "São José Do Calçado",
+    "Vargem Alta", "Venda Nova Do Imigrante"
+]
+ddd61 = [
+
+]
+ddd62 = [
+
+]
+ddd64 = [
+    
 ]
 
 def ExDDD92():
@@ -132,4 +176,16 @@ def ExDDD77():
 def ExDDD85():
     for i in range(len(ddd85)):
         print(ddd85[i])
+        time.sleep(0.01)
+def ExDDD88():
+    for i in range(len(ddd88)):
+        print(ddd88[i])
+        time.sleep(0.01)
+def ExDDD27():
+    for i in range(len(ddd27)):
+        print(ddd27[i])
+        time.sleep(0.01)
+def ExDDD28():
+    for i in range(len(ddd28)):
+        print(ddd28[i])
         time.sleep(0.01)
