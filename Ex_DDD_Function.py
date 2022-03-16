@@ -211,3 +211,60 @@ def Function28():
         print("O modo avançado já é para aqueles que querem saber mais detalhes sobre o DDD como por exemplo a cidade")
     else:
         print("Você escreveu algo errado ❌")
+def Function61():
+    print(" --------------------")
+    print("|  Modo simples  [1] |")
+    print("|  Modo avançado [2] |")
+    print("|  Ajuda         [3] |")
+    print(" --------------------")
+    mod_menu = int(input("Escolha o modo a partir do numero:\n"))
+    if mod_menu == 1:
+        print("\nEsse DDD pertence a Goias e Distrito Federal")
+    elif mod_menu == 2:
+        print("\nO ddd 61 pertence a Goias e Distrito Federal, suas respectivas cidades são: ")
+        print("")
+        Ex.ExDDD61()
+    elif mod_menu == 3:
+        print("[Modo ajuda]")
+        print("O modo simples ele foi criado para ajudar o usuario a identificar o estado pelo ddd de modo mais simples e rapido")
+        print("O modo avançado já é para aqueles que querem saber mais detalhes sobre o DDD como por exemplo a cidade")
+    else:
+        print("Você escreveu algo errado ❌")
+def Function62():
+    print(" --------------------")
+    print("|  Modo simples  [1] |")
+    print("|  Modo avançado [2] |")
+    print("|  Ajuda         [3] |")
+    print(" --------------------")
+    mod_menu = int(input("Escolha o modo a partir do numero:\n"))
+    if mod_menu == 1:
+        print("\nEsse DDD pertence a Goias")
+    elif mod_menu == 2:
+        print("\nO ddd 62 pertence a Goias e suas respectivas cidades são: ")
+        print("")
+        Ex.ExDDD62()
+    elif mod_menu == 3:
+        print("[Modo ajuda]")
+        print("O modo simples ele foi criado para ajudar o usuario a identificar o estado pelo ddd de modo mais simples e rapido")
+        print("O modo avançado já é para aqueles que querem saber mais detalhes sobre o DDD como por exemplo a cidade")
+    else:
+        print("Você escreveu algo errado ❌")
+def Function64():
+    print(" --------------------")
+    print("|  Modo simples  [1] |")
+    print("|  Modo avançado [2] |")
+    print("|  Ajuda         [3] |")
+    print(" --------------------")
+    mod_menu = int(input("Escolha o modo a partir do numero:\n"))
+    if mod_menu == 1:
+        print("\nEsse DDD pertence a Goias")
+    elif mod_menu == 2:
+        print("\nO ddd 64 pertence a Goias e suas respectivas cidades são: ")
+        print("")
+        Ex.ExDDD64()
+    elif mod_menu == 3:
+        print("[Modo ajuda]")
+        print("O modo simples ele foi criado para ajudar o usuario a identificar o estado pelo ddd de modo mais simples e rapido")
+        print("O modo avançado já é para aqueles que querem saber mais detalhes sobre o DDD como por exemplo a cidade")
+    else:
+        print("Você escreveu algo errado ❌")

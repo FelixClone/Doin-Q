@@ -118,6 +118,12 @@ while True:
             ExF.Function27()
         elif ddd_again == 28:
             ExF.Function28()
+        elif ddd_again == 61:
+            ExF.Function61()
+        elif ddd_again == 62:
+            ExF.Function62()
+        elif ddd_again == 64:
+            ExF.Function64()
         else:
             print(ddd_again, "não foi encontrado 🤔")
             print("Motivos: \nO ddd ainda não foi adicionado\nDDD não existe\nPor favor escreva lista ddd")

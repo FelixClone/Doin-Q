@@ -136,14 +136,67 @@ ddd28 = [
     "Vargem Alta", "Venda Nova Do Imigrante"
 ]
 ddd61 = [
-
+    "Águas Lindas De Goiás – GO", "Brasília – DF", "Cabeceiras – GO", "Cidade Ocidental – GO", "Cristalina – GO",
+    "Formosa – GO", "Luziânia – GO", "Novo Gama – GO", "Padre Bernardo – GO", "Planaltina – GO", "Santo Antônio Do Descoberto – GO",
+    "Valparaíso De Goiás – GO", "Vila Boa – GO", "Ceilândia – DF", "Samambaia – DF", "Taguatinga – DF","Plano Piloto – DF",
+    "Planaltina – DF", "Águas Claras – DF", "Recanto das Emas – DF", "Gama – DF", "Guará – DF", "Santa Maria – DF",
+    "Sobradinho II – DF", "São Sebastião – DF", "Vicente Pires – DF", "Itapoã – DF", "Sobradinho – DF", "Sudoeste/Octagonal – DF",
+    "Brazlândia – DF", "Riacho Fundo II – DF", "Paranoá – DF","Riacho Fundo – DF", "SCIA – DF", "Lago Norte – DF", "Cruzeiro – DF",
+    "Lago Sul – DF", "Jardim Botânico – DF", "Núcleo Bandeirante – DF", "Park Way – DF", "Candangolândia – DF", "Varjão – DF",
+    "Fercal – DF", "SIA - DF"
 ]
 ddd62 = [
-
+    "Abadia De Goiás", "Abadiânia", "Água Fria De Goiás", "Alexânia", "Alto Horizonte", "Alto Paraíso De Goiás",
+    "Alvorada Do Norte", "Amaralina", "Anápolis", "Aparecida De Goiânia", "Araçu", "Aragoiânia", "Araguapaz",
+    "Aruanã", "Barro Alto", "Bela Vista De Goiás","Bonfinópolis", "Bonópolis", "Brazabrantes", "Britânia",
+    "Buritinópolis", "Caldazinha", "Campestre De Goiás", "Campinaçu", "Campinorte", "Campo Limpo De Goias",
+    "Campos Belos", "Campos Verdes", "Carmo Do Rio Verde", "Caturaí", "Cavalcante", "Ceres","Cocalzinho De Goiás",
+    "Colinas Do Sul", "Corumbá De Goiás", "Crixás", "Damianópolis", "Damolândia", "Divinópolis De Goiás",
+    "Estrela Do Norte", "Faina", "Fazenda Nova", "Flores De Goiás", "Formoso", "Gameleira De Goias", "Goianápolis",
+    "Goianésia", "Goiânia", "Goianira", "Goiás", "Guapó", "Guaraíta", "Guarani De Goiás", "Guarinos", "Heitoraí",
+    "Hidrolândia", "Hidrolina", "Iaciara", "Inhumas", "Ipiranga De Goias", "Itaberaí", "Itaguari", "Itaguaru",
+    "Itapaci","Itapirapuã", "Itapuranga", "Itauçu", "Jaraguá", "Jesúpolis", "Jussara", "Leopoldo De Bulhões",
+    "Mambaí", "Mara Rosa", "Matrinchã", "Mimoso De Goiás", "Minaçu", "Monte Alegre De Goiás", "Montes Claros De Goiás",
+    "Montividiu Do Norte", "Morro Agudo De Goiás", "Mozarlândia", "Mundo Novo", "Mutunópolis", "Nerópolis", "Niquelândia",
+    "Nova América", "Nova Crixás", "Nova Glória", "Nova Iguaçu De Goiás", "Nova Roma", "Nova Veneza", "Novo Brasil",
+    "Novo Planalto", "Ouro Verde De Goiás", "Petrolina De Goiás", "Pilar De Goiás","Pirenópolis", "Porangatu", "Posse",
+    "Rialma", "Rianápolis", "Rubiataba", "Santa Bárbara De Goiás", "Santa Fé De Goiás", "Santa Isabel", "Santa Rita Do Novo Destino",
+    "Santa Rosa De Goiás", "Santa Tereza De Goiás", "Santa Terezinha De Goiás", "Santo Antônio De Goiás", "São Domingos", "São Francisco De Goiás",
+    "São João D’aliança", "São Luíz Do Norte", "São Miguel Do Araguaia", "São Miguel Do Passa Quatro", "São Patrício", "Senador Canedo",
+    "Silvânia", "Simolândia", "Sítio D’abadia", "Taquaral De Goiás", "Teresina De Goiás", "Terezópolis De Goiás", "Trindade", "Trombas",
+    "Uirapuru", "Uruaçu", "Uruana", "Uruana", "Vianópolis", "Vila Propicio"
 ]
 ddd64 = [
+    "Acreúna", "Adelândia", "Água Limpa", "Aloândia", "Americano Do Brasil", "Amorinópolis", "Anhanguera",
+    "Anicuns", "Aparecida Do Rio Doce", "Aporé", "Aragarças", "Arenópolis", "Aurilândia", "Avelinópolis",
+    "Baliza", "Bom Jardim De Goiás", "Bom Jesus", "Buriti Alegre", "Buriti De Goiás", "Cachoeira Alta",
+    "Cachoeira De Goiás", "Cachoeira Dourada", "Caçu", "Caiapônia", "Caldas Novas", "Campo Alegre De Goiás",
+    "Castelândia", "Catalão","Cezarina", "Chapadão Do Céu", "Córrego Do Ouro", "Corumbaíba", "Cristianópolis",
+    "Cromínia", "Cumari", "Davinópolis", "Diorama", "Doverlândia", "Edealina", "Edéia", "Firminópolis", "Goiandira",
+    "Goiatuba", "Gouvelândia", "Inaciolândia", "Indiara", "Ipameri", "Iporá", "Israelândia", "Itajá", "Itarumã", "Itumbiara",
+    "Ivolândia", "Jandaia", "Jataí", "Jaupaci", "Joviânia", "Lagoa Santa", "Mairipotaba", "Marzagão", "Maurilândia", "Mineiros",
+    "Moiporá", "Montividiu", "Morrinhos", "Mossâmedes", "Nazário", "Nova Aurora", "Orizona", "Ouvidor", "Palestina De Goiás",
+    "Palmeiras De Goiás", "Palmelo", "Palminópolis", "Panamá", "Paranaiguara","Paraúna", "Perolândia", "Piracanjuba", "Piranhas",
+    "Pires Do Rio", "Pontalina", "Porteirão", "Portelândia", "Professor Jamil", "Quirinópolis", "Rio Quente", "Rio Verde",
+    "Sanclerlândia", "Santa Cruz De Goiás", "Santa Helena De Goiás", "Santa Rita Do Araguaia","Santo Antônio Da Barra",
+    "São João Da Paraúna", "São Luís De Montes Belos", "São Simão", "Serranópolis", "Três Ranchos", "Turvânia", "Turvelândia",
+    "Urutaí", "Vicentinópolis"
+]
+ddd98 = [
+
+]
+
+ddd99 = [
+
+]
+ddd65 = [
+
+]
+ddd66 = [
     
 ]
+
+
 
 def ExDDD92():
     for i in range(len(ddd92)):
@@ -188,4 +241,16 @@ def ExDDD27():
 def ExDDD28():
     for i in range(len(ddd28)):
         print(ddd28[i])
+        time.sleep(0.01)
+def ExDDD61():
+    for i in range(len(ddd61)):
+        print(ddd61[i])
+        time.sleep(0.01)
+def ExDDD62():
+    for i in range(len(ddd62)):
+        print(ddd62[i])
+        time.sleep(0.01)
+def ExDDD64():
+    for i in range(len(ddd64)):
+        print(ddd64[i])
         time.sleep(0.01)
