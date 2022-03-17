@@ -183,7 +183,26 @@ ddd64 = [
     "Urutaí", "Vicentinópolis"
 ]
 ddd98 = [
-
+    "Afonso Cunha", "Água Doce Do Maranhão", "Alcântara", "Altamira Do Maranhão", "Alto Alegre Do Pindaré",
+    "Amapá Do Maranhão", "Anajatuba", "Anapurus", "Apicum-Açu", "Araguanã", "Araioses", "Arari", "Axixá",
+    "Bacabeira", "Bacuri", "Bacurituba", "Barreirinhas", "Bela Vista Do Maranhão", "Belágua", "Bequimão",
+    "Boa Vista Do Gurupi", "Bom Jardim", "Bom Jesus Das Selvas", "Brejo", "Brejo De Areia", "Buriti",
+    "Buriticupu", "Cachoeira Grande","Cajapió", "Cajari", "Cândido Mendes", "Cantanhede", "Carutapera",
+    "Cedral", "Central Do Maranhão", "Centro Do Guilherme", "Centro Novo Do Maranhão", "Chapadinha",
+    "Coelho Neto", "Conceição Do Lago-Açu", "Cururupu", "Duque Bacelar", "Godofredo Viana",
+    "Governador Newton Bello","Governador Nunes Freire", "Guimarães", "Humberto De Campos", "Icatu",
+    "Igarapé Do Meio", "Itapecuru Mirim", "Junco Do Maranhão", "Luís Domingues", "Magalhães De Almeida",
+    "Maracaçumé", "Marajá Do Sena", "Maranhãozinho", "Mata Roma", "Matinha", "Matões Do Norte",
+    "Milagres Do Maranhão", "Miranda Do Norte", "Mirinzal", "Monção", "Morros", "Nina Rodrigues",
+    "Nova Olinda Do Maranhão", "Olho D’água Das Cunhãs", "Olinda Nova Do Maranhão", "Paço Do Lumiar",
+    "Palmeirândia", "Paulino Neves", "Paulo Ramos", "Pedro Do Rosário", "Penalva", "Peri Mirim", "Pindaré Mirim",
+    "Pinheiro", "Pio Xii", "Pirapemas", "Porto Rico Do Maranhão", "Presidente Juscelino", "Presidente Médici",
+    "Presidente Sarney", "Presidente Vargas", "Primeira Cruz", "Raposa", "Rosário", "Santa Helena", "Santa Inês",
+    "Santa Luzia", "Santa Luzia Do Paruá", "Santa Quitéria Do Maranhão","Santa Rita", "Santana Do Maranhão",
+    "Santo Amaro Do Maranhão", "São Benedito Do Rio Preto", "São Bento", "São Bernardo", "São João Batista",
+    "São João Do Carú", "São José De Ribamar", "São Luís", "São Vicente Ferrer", "Satubinha", "Serrano Do Maranhão",
+    "Tufilândia", "Turiaçu", "Turilândia","Tutóia", "Urbano Santos", "Vargem Grande", "Viana", "Vitória Do Mearim",
+    "Vitorino Freire", "Zé Doca"
 ]
 
 ddd99 = [
@@ -253,4 +272,8 @@ def ExDDD62():
 def ExDDD64():
     for i in range(len(ddd64)):
         print(ddd64[i])
+        time.sleep(0.01)
+def ExDDD98():
+    for i in range(len(ddd98)):
+        print(ddd98[i])
         time.sleep(0.01)

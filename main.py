@@ -87,9 +87,9 @@ while True:
                 print("")
                 Data.StatesList()
             elif est_lista2 == "n":
-                print("Okay ✅")
+                print("\nOkay ✅")
             else:
-                print("Você escreveu algo errado ❌")
+                print("\nVocê escreveu algo errado ❌")
 
 
 # DDD
@@ -124,9 +124,11 @@ while True:
             ExF.Function62()
         elif ddd_again == 64:
             ExF.Function64()
+        elif ddd_again == 98:
+            ExF.Function98()
         else:
-            print(ddd_again, "não foi encontrado 🤔")
-            print("Motivos: \nO ddd ainda não foi adicionado\nDDD não existe\nPor favor escreva lista ddd")
+            print("\n",ddd_again, "não foi encontrado 🤔")
+            print("Motivos: \nO ddd ainda não foi adicionado\nDDD não existe\nPor favor escreva ddd --list para ver a lista de ddd")
 # Egg
 
     elif search == "bandeira":
@@ -153,7 +155,7 @@ while True:
         print("")
         Data.StatesList()
     else:
-        print("Tem certeza que digitou,", search, " corretamente ou no lugar certo?")
+        print("\nTem certeza que digitou,", search, " corretamente ou no lugar certo?")
         print("Você escreveu algo errado 🤔")
         print("Mas não se preocupe, para saber as opções basta escrever: \n--help")
 
