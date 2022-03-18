@@ -7,10 +7,14 @@
 <a href="#pre-requisitos">Pre-requisitos</a> ⚬
 <a href="#visualização-do-aplicativo">Visualização do aplicativo</a>
 
-Doin-Q é uma soloção rapida e pratica com  uma dose de minimalismo para aqueles que queres saber mais
-sobre o DDD de cada estado, facilitando saber de onde as pessoas estão te ligando
 
-<img align="center" src="https://user-images.githubusercontent.com/85363903/158908903-b25d24d5-2ab4-4bdf-9fea-a900da97c9a8.png">
+## Visualização do aplicativo
+
+<img align="center" src="https://im5.ezgif.com/tmp/ezgif-5-4f7b7d0970.gif">
+
+Doin-Q é uma soloção rapida e pratica com  uma dose de minimalismo para aqueles que queres saber mais
+sobre o DDD de cada estado, facilitando a busca em modo offline para ter uma ideia de onde estão te ligando.
+
 
 #### (Projeto Pessoal)
 
@@ -41,6 +45,3 @@ para saber as opções
 
 Para o aplivativo poder rodar em seu computador, você precisara do **python3** 
 
-## Visualização do aplicativo
-
-<img align="center" src="https://im5.ezgif.com/tmp/ezgif-5-4f7b7d0970.gif">
