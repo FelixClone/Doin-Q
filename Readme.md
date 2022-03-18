@@ -1,4 +1,4 @@
-# Doin-Q
+# Doin-Q DDD Scaner
 <h4 align="center">
    ⚠ Projeto em andamento ⚠
 </h4>
