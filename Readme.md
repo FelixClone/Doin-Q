@@ -3,14 +3,18 @@
    ⚠ Projeto em andamento ⚠
 </h4>
 <p align="center">
+<a href="#visualização-do-aplicativo">Visualização do aplicativo</a> ⚬
+<a href="#sobre">Sobre</a> ⚬
 <a href="#funcionalidades">Funcionalidades</a> ⚬
-<a href="#pre-requisitos">Pre-requisitos</a> ⚬
-<a href="#visualização-do-aplicativo">Visualização do aplicativo</a>
+<a href="#pre-requisitos">Pre-requisitos</a> 
 
 
-## Visualização do aplicativo
+
+# Visualização do aplicativo
 
 <img align="center" src="https://im5.ezgif.com/tmp/ezgif-5-4f7b7d0970.gif">
+
+## Sobre
 
 Doin-Q é uma soloção rapida e pratica com  uma dose de minimalismo para aqueles que queres saber mais
 sobre o DDD de cada estado, facilitando a busca em modo offline para ter uma ideia de onde estão te ligando.
