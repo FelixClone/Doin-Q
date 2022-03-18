@@ -126,6 +126,10 @@ while True:
             ExF.Function64()
         elif ddd_again == 98:
             ExF.Function98()
+        elif ddd_again == 99:
+            ExF.Function99()
+        elif ddd_again == 65:
+            ExF.Function65()
         else:
             print("\n",ddd_again, "não foi encontrado 🤔")
             print("Motivos: \nO ddd ainda não foi adicionado\nDDD não existe\nPor favor escreva ddd --list para ver a lista de ddd")

@@ -206,10 +206,35 @@ ddd98 = [
 ]
 
 ddd99 = [
-
+    "Açailândia", "Aldeias Altas", "Alto Alegre Do Maranhão", "Alto Parnaíba", "Amarante Do Maranhão",
+    "Arame", "Bacabal", "Balsas", "Barão De Grajaú", "Barra Do Corda", "Benedito Leite", "Bernardo Do Mearim",
+    "Bom Lugar", "Buriti Bravo", "Buritirana", "Campestre Do Maranhão", "Capinzal Do Norte", "Carolina",
+    "Caxias", "Cidelândia", "Codó", "Colinas", "Coroatá", "Davinópolis", "Dom Pedro", "Esperantinópolis",
+    "Estreito", "Feira Nova Do Maranhão", "Fernando Falcão", "Formosa Da Serra Negra", "Fortaleza Dos Nogueiras",
+    "Fortuna", "Gonçalves Dias", "Governador Archer", "Governador Edison Lobão", "Governador Eugênio Barros",
+    "Governador Luiz Rocha", "Graça Aranha", "Grajaú", "Igarapé Grande", "Imperatriz", "Itaipava Do Grajaú",
+    "Itinga Do Maranhão", "Jatobá", "Jenipapo Dos Vieiras", "João Lisboa", "Joselândia", "Lago Da Pedra",
+    "Lago Do Junco", "Lago Dos Rodrigues", "Lago Verde", "Lagoa Do Mato", "Lagoa Grande Do Maranhão",
+    "Lajeado Novo", "Lima Campos", "Loreto", "Matões", "Mirador", "Montes Altos", "Nova Colinas", "Nova Iorque",
+    "Paraibano", "Parnarama", "Passagem Franca", "Pastos Bons", "Pedreiras", "Peritoró", "Poção De Pedras", "Porto Franco",
+    "Presidente Dutra", "Riachão", "Ribamar Fiquene", "Sambaíba", "Santa Filomena Do Maranhão", "Santo Antônio Dos Lopes",
+    "São Domingos Do Azeitão", "São Domingos Do Maranhão", "São Félix De Balsas", "São Francisco Do Brejão",
+    "São Francisco Do Maranhão", "São João Do Paraíso", "São João Do Soter", "São João Dos Patos", "São José Dos Basílios",
+    "São Luís Gonzaga Do Maranhão", "São Mateus Do Maranhão", "São Pedro Da Água Branca", "São Pedro Dos Crentes",
+    "São Raimundo Das Mangabeiras", "São Raimundo Do Doca Bezerra", "São Roberto", "Senador Alexandre Costa", "Senador La Rocque",
+    "Sítio Novo", "Sucupira Do Norte", "Sucupira Do Riachão", "Tasso Fragoso", "Timbiras", "Timon", "Trizidela Do Vale",
+    "Tuntum", "Vila Nova Dos Martírios"
 ]
 ddd65 = [
-
+    "Acorizal", "Alto Paraguai", "Araputanga", "Arenápolis", "Barão De Melgaço", "Barra Do Bugres",
+    "Cáceres", "Campo Novo Do Parecis", "Campos De Júlio", "Chapada Dos Guimarães", "Comodoro",
+    "Conquista Do Oeste", "Cuiabá", "Curvelandia", "Denise", "Diamantino", "Figueirópolis D'oeste",
+    "Glória D'oeste", "Indiavaí", "Itiquira", "Jangada", "Jauru", "Lambari D'oeste", "Lucas Do Rio Verde",
+    "Mirassol D'oeste", "Nobres", "Nortelândia", "Nossa Senhora Do Livramento", "Nova Lacerda", "Nova Marilândia",
+    "Nova Mutum", "Nova Olímpia", "Poconé", "Pontes E Lacerda", "Porto Esperidião", "Porto Estrela", "Reserva Do Cabaçal",
+    "Rio Branco", "Rosário Oeste", "Salto Do Céu", "Santa Rita Do Trivelato", "Santo Afonso", "Santo Antônio Do Leverger",
+    "São José Do Rio Claro", "São José Dos Quatro Marcos", "Sapezal", "Tangará Da Serra", "Vale De São Domingos", "Várzea Grande",
+    "Vila Bela Da Santíssima Trindade"
 ]
 ddd66 = [
     
@@ -276,4 +301,12 @@ def ExDDD64():
 def ExDDD98():
     for i in range(len(ddd98)):
         print(ddd98[i])
+        time.sleep(0.01)
+def ExDDD99():
+    for i in range(len(ddd99)):
+        print(ddd99[i])
+        time.sleep(0.01)
+def ExDDD65():
+    for i in range(len(ddd65)):
+        print(ddd65[i])
         time.sleep(0.01)

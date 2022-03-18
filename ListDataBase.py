@@ -1,7 +1,7 @@
 import time
 
 estados = [
-    "acre","alagoas","amapa","amazonas","bahia","ceara","espirito santo","goias","maranhão"
+    "acre","alagoas","amapa","amazonas","bahia","ceara","espirito santo","goias","maranhão",
     "mato grosso","mato grosso do sul","minas gerais","para","paraiba","piaui","rio de janeiro",
     "rio grande do norte", "rio grande do sul", "roraima", "santa catarina", "sao paulo", "sergipe", 
     "tocantins"
