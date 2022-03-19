@@ -1,4 +1,4 @@
-# Doin-Q DDD Scaner
+# Doin-cli
 <h4 align="center">
    ⚠ Projeto em andamento ⚠
 </h4>
@@ -16,7 +16,7 @@
 
 ## Sobre
 
-Doin-Q é uma soloção rapida e pratica com  uma dose de minimalismo para aqueles que queres saber mais
+Doin-cli é uma soloção rapida e pratica com  uma dose de minimalismo para aqueles que queres saber mais
 sobre o DDD de cada estado, facilitando a busca em modo offline para ter uma ideia de onde estão te ligando.
 
 
