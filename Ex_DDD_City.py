@@ -237,10 +237,34 @@ ddd65 = [
     "Vila Bela Da Santíssima Trindade"
 ]
 ddd66 = [
-    
+    "Água Boa", "Alta Floresta", "Alto Araguaia", "Alto Boa Vista", "Alto Garças", "Alto Taquari", "Apiacás",
+    "Araguaiana", "Araguainha", "Aripuanã", "Barra Do Garças", "Bom Jesus Do Araguaia", "Brasnorte", "Campinápolis",
+    "Campo Verde", "Canabrava Do Norte", "Canarana", "Carlinda", "Castanheira", "Cláudia", "Cocalinho", "Colíder",
+    "Colniza", "Confresa", "Cotriguaçu", "Dom Aquino", "Feliz Natal", "Gaúcha Do Norte", "General Carneiro", "Guarantã Do Norte",
+    "Guiratinga", "Itaúba", "Jaciara", "Juara", "Juína", "Juruena", "Juscimeira", "Luciára", "Marcelândia", "Matupá",
+    "Nova Bandeirantes", "Nova Brasilândia", "Nova Canãa Do Norte", "Nova Guarita", "Nova Maringá", "Nova Monte Verde",
+    "Nova Nazaré", "Nova Santa Helena", "Nova Ubiratã", "Nova Xavantina", "Novo Horizonte Do Norte", "Novo Mundo",
+    "Novo Santo Antonio", "Novo São Joaquim", "Paranaíta", "Paranatinga", "Pedra Preta", "Peixoto De Azevedo",
+    "Planalto Da Serra", "Pontal Do Araguaia", "Ponte Branca", "Porto Alegre Do Norte", "Porto Dos Gaúchos",
+    "Poxoréo", "Primavera Do Leste", "Querência", "Ribeirão Cascalheira", "Ribeirãozinho", "Rondolandia",
+    "Rondonópolis", "Santa Carmem", "Santa Cruz Do Xingu", "Santa Terezinha", "Santo Antonio Do Leste",
+    "São Félix Do Araguaia", "São José Do Povo", "São José Do Xingu", "São Pedro Da Cipa", "Serra Nova Dourada",
+    "Sinop", "Sorriso", "Tabaporã", "Tapurah", "Terra Nova Do Norte", "Tesouro", "Torixoréu", "União Do Sul",
+    "Vera", "Vila Rica"
+]
+ddd37 = [
+    "Abaeté", "Araújos", "Arcos", "Bambuí", "Biquinhas", "Bom Despacho", "Camacho", "Campos Altos", "Capitólio",
+    "Carmo Da Mata", "Carmo Do Cajuru", "Carmópolis De Minas", "Cedro Do Abaeté", "Cláudio", "Conceição Do Pará",
+    "Córrego Danta", "Córrego Fundo", "Divinópolis", "Dores Do Indaiá", "Doresópolis", "Estrela Do Indaiá",
+    "Formiga", "Igaratinga", "Iguatama", "Itapecerica", "Itaúna", "Japaraíba", "Lagoa Da Prata", "Leandro Ferreira",
+    "Luz", "Maravilhas", "Martinho Campos", "Medeiros", "Moema", "Morada Nova De Minas", "Nova Serrana", "Oliveira",
+    "Onça De Pitangui", "Paineiras", "Pains", "Papagaios", "Pará De Minas", "Passa Tempo", "Pedra Do Indaiá", "Pequi",
+    "Perdigão", "Pimenta", "Piracema", "Pitangui", "Piuí", "Pompéu", "Quartel Geral", "Santo Antônio Do Monte",
+    "São Francisco De Paula", "São Gonçalo Do Pará", "São José Da Varginha", "São Roque De Minas", "São Sebastião Do Oeste",
+    "Serra Da Saudade", "Tapiraí", "Vargem Bonita"
 ]
 
-
+# cities identified by area code
 
 def ExDDD92():
     for i in range(len(ddd92)):
@@ -309,4 +333,12 @@ def ExDDD99():
 def ExDDD65():
     for i in range(len(ddd65)):
         print(ddd65[i])
+        time.sleep(0.01)
+def ExDDD66():
+    for i in range(len(ddd66)):
+        print(ddd66[i])
+        time.sleep(0.01)
+def ExDDD37():
+    for i in range(len(ddd37)):
+        print(ddd37[i])
         time.sleep(0.01)

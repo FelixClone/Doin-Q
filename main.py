@@ -5,7 +5,7 @@ import Options
 
 
 print("--------------------------------------------------------------")
-print("                           Doin-Q")
+print("                        #Doin-cli")
 print("--------------------------------------------------------------\n")
 
 while True:
@@ -81,18 +81,18 @@ while True:
         elif state == "tocantins":
             print("O DDD correspondente a Tocantins é:\nDDD 63")
         else:
-            print("Você escreveu algo errado ❌")
-            est_lista2 = input("Gostaria de ver a lista? (s) ou (n): \n")
-            if est_lista2 == "s":
+            print("\nO estado",state, "não foi encontrado 🤔\nMotivos: \n1- Esse estado não existe\n2- O nome do estado esta errado")
+            state_list = input("Gostaria de ver a lista? (s) ou (n): \n")
+            if state_list == "s":
                 print("")
                 Data.StatesList()
-            elif est_lista2 == "n":
+            elif state_list == "n":
                 print("\nOkay ✅")
             else:
                 print("\nVocê escreveu algo errado ❌")
 
 
-# DDD
+# area code
 
     elif search == "ddd":
         ddd_again = int(input("\npor favor digite o ddd: "))
@@ -130,9 +130,22 @@ while True:
             ExF.Function99()
         elif ddd_again == 65:
             ExF.Function65()
+        elif ddd_again == 66:
+            ExF.Function66()
+        elif ddd_again == 37:
+            ExF.Function37()
         else:
-            print("\n",ddd_again, "não foi encontrado 🤔")
-            print("Motivos: \nO ddd ainda não foi adicionado\nDDD não existe\nPor favor escreva ddd --list para ver a lista de ddd")
+            print("\nO ddd",ddd_again, "não foi encontrado 🤔")
+            print("Motivos: \n1 - O ddd ainda não foi adicionado\n2 - DDD não existe\n")
+            area_code_list = input("Gostaria de ver a lista? (s) ou (n): \n")
+            if area_code_list == "s":
+                print("")
+                Data.DDDList()
+            elif area_code_list == "n":
+                print("\nOkay ✅")
+            else:
+                print("\nVocê escreveu algo errado ❌")
+
 # Egg
 
     elif search == "bandeira":
