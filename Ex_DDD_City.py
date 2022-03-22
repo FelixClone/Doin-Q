@@ -252,6 +252,41 @@ ddd66 = (
     "Sinop", "Sorriso", "Tabaporã", "Tapurah", "Terra Nova Do Norte", "Tesouro", "Torixoréu", "União Do Sul",
     "Vera", "Vila Rica",
 )
+
+ddd32 = (
+    'Além Paraíba', 'Alfredo Vasconcelos', 'Alto Caparaó', 'Alto Rio Doce', 'Antônio Carlos', 'Antônio Prado De Minas',
+    'Aracitaba', 'Arantina', 'Argirita', 'Astolfo Dutra', 'Barão De Monte Alto', 'Barbacena', 'Barroso', 'Bias Fortes',
+    'Bicas', 'Bocaina De Minas', 'Bom Jardim De Minas', 'Brás Pires', 'Caiana', 'Caparaó', 'Carandaí', 'Carangola',
+    'Cataguases', 'Chácara', 'Chiador', 'Cipotânea', 'Coimbra', 'Conceição Da Barra De Minas', 'Coronel Pacheco',
+    'Coronel Xavier Chaves', 'Descoberto', 'Desterro Do Melo', 'Divinésia', 'Divino', 'Dona Euzébia', 'Dores De Campos',
+    'Dores Do Turvo', 'Ervália', 'Espera Feliz', 'Estrela Dalva', 'Eugenópolis', 'Ewbank Da Câmara', 'Faria Lemos',
+    'Fervedouro', 'Goianá', 'Guarani', 'Guarará', 'Guidoval', 'Guiricema', 'Ibertioga', 'Itamarati De Minas', 'Juiz De Fora',
+    'Lagoa Dourada', 'Laranjal', 'Leopoldina', 'Liberdade', 'Lima Duarte', 'Madre De Deus De Minas', 'Mar De Espanha',
+    'Maripá De Minas', 'Matias Barbosa', 'Mercês', 'Miradouro', 'Miraí', 'Muriaé', 'Olaria', 'Oliveira Fortes', 'Orizânia',
+    'Paiva', 'Palma', 'Passa Vinte', 'Patrocínio Do Muriaé', 'Paula Cândido', 'Pedra Dourada', 'Pedro Teixeira', 'Pequeri',
+    'Piau', 'Piedade Do Rio Grande', 'Pirapetinga', 'Piraúba', 'Prados', 'Presidente Bernardes', 'Recreio', 'Resende Costa',
+    'Ressaquinha', 'Rio Novo', 'Rio Pomba', 'Rio Preto', 'Ritápolis', 'Rochedo De Minas', 'Rodeiro', 'Rosário Da Limeira',
+    'Santa Bárbara Do Monte Verde', 'Santa Bárbara Do Tugúrio', 'Santa Cruz De Minas', 'Santa Rita De Ibitipoca',
+    'Santa Rita De Jacutinga', 'Santana De Cataguases', 'Santana Do Deserto', 'Santana Do Garambéu', 'Santo Antônio Do Aventureiro',
+    'Santos Dumont', 'São Francisco Do Glória', 'São Geraldo', 'São João Del Rei', 'São João Nepomuceno', 'São Sebastião Da Vargem Alegre',
+    'São Tiago', 'Senador Cortes', 'Senador Firmino', 'Senhora Dos Remédios', 'Silveirânia', 'Simão Pereira', 'Tabuleiro', 'Tiradentes',
+    'Tocantins', 'Tombos', 'Ubá', 'Vieiras', 'Visconde Do Rio Branco', 'Volta Grande',
+)
+
+ddd34 = (
+    'Abadia Dos Dourados', 'Água Comprida', 'Araguari', 'Araporã', 'Arapuá', 'Araxá', 'Cachoeira Dourada',
+    'Campina Verde', 'Campo Florido', 'Canápolis', 'Capinópolis', 'Carmo Do Paranaíba', 'Carneirinho',
+    'Cascalho Rico', 'Centralina', 'Claraval', 'Comendador Gomes', 'Conceição Das Alagoas', 'Conquista',
+    'Coromandel', 'Cruzeiro Da Fortaleza', 'Delta', 'Douradoquara', 'Estrela Do Sul', 'Fronteira',
+    'Frutal', 'Grupiara', 'Guimarânia', 'Gurinhatã', 'Ibiá', 'Indianópolis', 'Ipiaçu', 'Iraí De Minas',
+    'Itapagipe', 'Ituiutaba', 'Iturama', 'Lagamar', 'Lagoa Formosa', 'Lagoa Grande', 'Limeira Do Oeste',
+    'Matutina', 'Monte Alegre De Minas', 'Monte Carmelo', 'Nova Ponte', 'Patos De Minas', 'Patrocínio',
+    'Pedrinópolis', 'Perdizes', 'Pirajuba', 'Planura', 'Prata', 'Pratinha', 'Presidente Olegário',
+    'Rio Paranaíba', 'Romaria', 'Sacramento', 'Santa Juliana', 'Santa Rosa Da Serra', 'Santa Vitória',
+    'São Francisco De Sales', 'São Gotardo', 'Serra Do Salitre', 'Tapira', 'Tiros', 'Tupaciguara',
+    'Uberaba', 'Uberlândia', 'União De Minas', 'Vazante', 'Veríssimo',
+)
+
 ddd37 = (
     "Abaeté", "Araújos", "Arcos", "Bambuí", "Biquinhas", "Bom Despacho", "Camacho", "Campos Altos", "Capitólio",
     "Carmo Da Mata", "Carmo Do Cajuru", "Carmópolis De Minas", "Cedro Do Abaeté", "Cláudio", "Conceição Do Pará",
@@ -337,6 +372,14 @@ def ExDDD65():
 def ExDDD66():
     for i in range(len(ddd66)):
         print(ddd66[i])
+        time.sleep(0.01)
+def ExDDD32():
+    for i in range(len(ddd32)):
+        print(ddd32[i])
+        time.sleep(0.01)
+def ExDDD34():
+    for i in range(len(ddd34)):
+        print(ddd34[i])
         time.sleep(0.01)
 def ExDDD37():
     for i in range(len(ddd37)):
