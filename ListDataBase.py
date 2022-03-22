@@ -1,35 +1,35 @@
 import time
 
-estados = [
+estados = (
     "acre","alagoas","amapa","amazonas","bahia","ceara","espirito santo","goias","maranhão",
     "mato grosso","mato grosso do sul","minas gerais","para","paraiba","piaui","rio de janeiro",
     "rio grande do norte", "rio grande do sul", "roraima", "santa catarina", "sao paulo", "sergipe", 
-    "tocantins"
-]
+    "tocantins",
+)
 
 
-ddd = [
+ddd = (
     68, 82, 96, 92, 97, 71, 73, 74, 75, 77, 85, 88, 27, 28, 61, 62, 64, 98, 99, 65, 66,
     67, 31, 32, 33, 34, 35, 37, 91, 93, 94, 83, 41, 42, 43, 44, 45, 46, 86, 89, 21, 22,
-    24, 84, 52, 53, 54, 55, 95, 47, 48, 49, 11, 12, 13, 14, 15, 16, 17, 18, 19, 79, 63
-]
+    24, 84, 52, 53, 54, 55, 95, 47, 48, 49, 11, 12, 13, 14, 15, 16, 17, 18, 19, 79, 63,
+)
 
 
-Amazonas = [92, 97]
-Bahia = [71, 73, 74, 75, 77]
+Amazonas = (92, 97,)
+Bahia = (71, 73, 74, 75, 77,)
 Ceara = [85, 88]
-Espirito_Santo = [27, 28]
-Goias = [61, 62, 64]
-Maranhao = [98, 99]
-Mato_Grosso = [65, 66]
-Minas_Gerais = [31, 32, 33, 34, 35, 37]
-Para = [91, 93, 94]
-Parana = [41, 42, 43, 44, 45, 46]
-Piaui = [86, 89]
-Rio_de_Janeiro = [21, 22, 24]
-Rio_Grande_do_Sul = [52, 53, 54, 55]
-Santa_Catarina = [47, 48, 49]
-Sao_Paulo = [11, 12, 13, 14, 15, 16, 17, 18, 19]
+Espirito_Santo = (27, 28,)
+Goias = (61, 62, 64,)
+Maranhao = (98, 99,)
+Mato_Grosso = (65, 66,)
+Minas_Gerais = (31, 32, 33, 34, 35, 37,)
+Para = (91, 93, 94,)
+Parana = (41, 42, 43, 44, 45, 46,)
+Piaui = (86, 89,)
+Rio_de_Janeiro = (21, 22, 24,)
+Rio_Grande_do_Sul = (52, 53, 54, 55,)
+Santa_Catarina = (47, 48, 49,)
+Sao_Paulo = (11, 12, 13, 14, 15, 16, 17, 18, 19,)
 
 # States
 

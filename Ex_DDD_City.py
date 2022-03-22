@@ -4,7 +4,7 @@ ddd92 = (
     "Careiro Da Varzea", "Iranduba", "Itacoatiara", "Itapiranga", "Manacapuru", "Manaquiri",
     "Manaus", "Maues", "Nhamunda", "Nova Olinda Do Norte", "Novo Airão", "Parintins",
     "Presidente Figueiredo", "Rio Preto Da Eva", "São Sebastião Do Uatuma", "Silves"
-    "Urucara", "Urucurituba"
+    "Urucara", "Urucurituba",
 )
 ddd97 = (
     "Alvaraes", "Amatura", "Anama", "Anori", "Apui", "Atalaia Do Norte", "Barcelos",
@@ -13,12 +13,12 @@ ddd97 = (
     "Ipixuna", "Itamarati", "Japura", "Jurua", "Jutai", "Labrea", "Manicore",
     "Maraa", "Novo Aripuana", "Pauini", "Santa Isabel Do Rio Negro",
     "Santo Antonio Do Ica", "São Gabriel Da Cachoeira", "São Paulo De Olivenca",
-    "Tabatinga", "Tapaua", "Tefe", "Tonantins", "Uarini"
+    "Tabatinga", "Tapaua", "Tefe", "Tonantins", "Uarini",
 )
 ddd71 = (
     "Camacari", "Candeias", "Catu", "Dias D'Avila", "Itaparica", "Lauro De Freitas",
     "Madre De Deus","Mata De São João", "Pojuca", "Salvador", "São Francisco Do Conde",
-    "São Sebastião Do Passe", "Simões Filho", "Vera Cruz"
+    "São Sebastião Do Passe", "Simões Filho", "Vera Cruz",
 )
 ddd73 = (
     "Aiquara", "Alcobaça", "Almadina", "Apuarema", "Arataca", "Aurelino Leal", 
@@ -36,7 +36,7 @@ ddd73 = (
     "Prado", "Presidente Tancredo Neves", "Santa Cruz Cabrália",
     "Santa Cruz Da Vitória", "Santa Inês", "Santa Luzia", "São José Da Vitória", 
     "Teixeira De Freitas", "Teolândia", "Ubaitaba", "Ubatã", "Una", "Uruçuca", 
-    "Vereda", "Wenceslau Guimarães"
+    "Vereda", "Wenceslau Guimarães",
 )
 ddd74 = (
     "América Dourada", "Andorinha", "Antônio Gonçalves", "Baixa Grande", "Barra", "Barra Do Mendes",
@@ -48,7 +48,7 @@ ddd74 = (
     "Piritiba", "Ponto Novo", "Presidente Dutra", "Quixabeira", "Remanso", "São Gabriel",
     "São José Do Jacuípe", "Saúde", "Senhor Do Bonfim", "Sento Sé", "Serrolândia", "Sobradinho",
     "Tapiramutá", "Uauá", "Uibaí", "Umburanas", "Várzea Da Roça", "Várzea Do Poço", "Várzea Nova",
-    "Xique-Xique"
+    "Xique-Xique",
 )
 ddd75 = (
     "Abaré", "Acajutiba", "Adustina", "Água Fria", "Alagoinhas", "Amargosa", "Amélia Rodrigues", "Andaraí",
@@ -71,7 +71,7 @@ ddd75 = (
     "Santo Estêvão", "São Domingos", "São Felipe", "São Félix", "São Gonçalo Dos Campos", "São Miguel Das Matas",
     "Sapeaçu", "Sátiro Dias", "Seabra", "Serra Preta", "Serrinha", "Sítio Do Quinto", "Souto Soares", "Tanquinho",
     "Taperoá", "Teodoro Sampaio", "Teofilândia", "Terra Nova", "Tucano", "Ubaíra", "Utinga", "Valença", "Valente",
-    "Varzedo", "Wagner"
+    "Varzedo", "Wagner",
 )
 ddd77 = (
     "Abaíra", "Anagé", "Angical", "Aracatu", "Baianópolis", "Barra Da Estiva", "Barra Do Choça", "Barreiras",
@@ -90,7 +90,7 @@ ddd77 = (
     "Rio De Contas", "Rio Do Antônio", "Rio Do Pires", "Santa Maria Da Vitória", "Santa Rita De Cássia",
     "Santana", "São Desidério","São Félix Do Coribe", "Sebastião Laranjeiras", "Serra Do Ramalho",
     "Serra Dourada", "Sítio Do Mato", "Tabocas Do Brejo Velho", "Tanhaçu", "Tanque Novo", "Tremedal",
-    "Urandi", "Vitória Da Conquista", "Wanderley"
+    "Urandi", "Vitória Da Conquista", "Wanderley",
 )
 ddd85 = (
     "Acarapé", "Apuiarés", "Aquiraz", "Aracoiaba", "Aratuba", "Barreira", "Baturité", "Beberibe", "Canindé",
@@ -98,7 +98,7 @@ ddd85 = (
     "Guaiúba", "Guaramiranga", "Horizonte", "Itaitinga", "Itapagé", "Maracanaú", "Maranguape", "Mulungu",
     "Ocara", "Pacajus", "Pacatuba", "Pacoti", "Palmácia", "Paracuru", "Paraipaba", "Paramoti", "Pentecoste",
     "Pindoretama", "Redenção", "São Gonçalo Do Amarante", "São Luís Do Curu", "Tejuçuoca", "Trairi", "Tururu",
-    "Umirim", "Uruburetama"
+    "Umirim", "Uruburetama",
 )
 ddd88 = (
     "Abaiara", "Acaraú", "Acopiara", "Aiuaba", "Alcântaras", "Altaneira", "Alto Santo", "Amontada",
@@ -117,7 +117,7 @@ ddd88 = (
     "Poranga", "Porteiras", "Potengi", "Potiretama","Quiterianópolis", "Quixadá", "Quixelô", "Quixeramobim", "Quixeré",
     "Reriutaba", "Russas", "Saboeiro", "Salitre", "Santa Quitéria", "Santana Do Acaraú", "Santana Do Cariri", "São Benedito",
     "São João Do Jaguaribe", "Senador Pompeu", "Senador Sá", "Sobral", "Solonópole", "Tabuleiro Do Norte", "Tamboril", "Tarrafas",
-    "Tauá", "Tianguá", "Ubajara", "Umari", "Uruoca", "Varjota", "Várzea Alegre", "Viçosa Do Ceará"
+    "Tauá", "Tianguá", "Ubajara", "Umari", "Uruoca", "Varjota", "Várzea Alegre", "Viçosa Do Ceará",
 )
 ddd27 = (
     "Afonso Cláudio", "Água Doce Do Norte", "Águia Branca", "Alfredo Chaves", "Alto Rio Novo", "Aracruz",
@@ -127,7 +127,7 @@ ddd27 = (
     "Marilândia", "Montanha", "Mucurici", "Nova Venécia", "Pancas", "Pedro Canário","Pinheiros", "Ponto Belo",
     "Rio Bananal", "Santa Leopoldina", "Santa Maria De Jetibá", "Santa Teresa", "São Domingos Do Norte",
     "São Gabriel Da Palha", "São Mateus", "São Roque Do Canaã", "Serra", "Sooretama", "Viana", "Vila Pavão",
-    "Vila Valério", "Vila Velha", "Vitória"
+    "Vila Valério", "Vila Velha", "Vitória",
 )
 ddd28 = (
     "Alegre", "Anchieta", "Apiacá", "Atilio Vivacqua", "Bom Jesus Do Norte", "Cachoeiro De Itapemirim", "Castelo", "Conceição Do Castelo",
@@ -143,7 +143,7 @@ ddd61 = (
     "Sobradinho II – DF", "São Sebastião – DF", "Vicente Pires – DF", "Itapoã – DF", "Sobradinho – DF", "Sudoeste/Octagonal – DF",
     "Brazlândia – DF", "Riacho Fundo II – DF", "Paranoá – DF","Riacho Fundo – DF", "SCIA – DF", "Lago Norte – DF", "Cruzeiro – DF",
     "Lago Sul – DF", "Jardim Botânico – DF", "Núcleo Bandeirante – DF", "Park Way – DF", "Candangolândia – DF", "Varjão – DF",
-    "Fercal – DF", "SIA - DF"
+    "Fercal – DF", "SIA - DF",
 )
 ddd62 = (
     "Abadia De Goiás", "Abadiânia", "Água Fria De Goiás", "Alexânia", "Alto Horizonte", "Alto Paraíso De Goiás",
@@ -164,7 +164,7 @@ ddd62 = (
     "Santa Rosa De Goiás", "Santa Tereza De Goiás", "Santa Terezinha De Goiás", "Santo Antônio De Goiás", "São Domingos", "São Francisco De Goiás",
     "São João D’aliança", "São Luíz Do Norte", "São Miguel Do Araguaia", "São Miguel Do Passa Quatro", "São Patrício", "Senador Canedo",
     "Silvânia", "Simolândia", "Sítio D’abadia", "Taquaral De Goiás", "Teresina De Goiás", "Terezópolis De Goiás", "Trindade", "Trombas",
-    "Uirapuru", "Uruaçu", "Uruana", "Uruana", "Vianópolis", "Vila Propicio"
+    "Uirapuru", "Uruaçu", "Uruana", "Uruana", "Vianópolis", "Vila Propicio",
 )
 ddd64 = (
     "Acreúna", "Adelândia", "Água Limpa", "Aloândia", "Americano Do Brasil", "Amorinópolis", "Anhanguera",
@@ -180,7 +180,7 @@ ddd64 = (
     "Pires Do Rio", "Pontalina", "Porteirão", "Portelândia", "Professor Jamil", "Quirinópolis", "Rio Quente", "Rio Verde",
     "Sanclerlândia", "Santa Cruz De Goiás", "Santa Helena De Goiás", "Santa Rita Do Araguaia","Santo Antônio Da Barra",
     "São João Da Paraúna", "São Luís De Montes Belos", "São Simão", "Serranópolis", "Três Ranchos", "Turvânia", "Turvelândia",
-    "Urutaí", "Vicentinópolis"
+    "Urutaí", "Vicentinópolis",
 )
 ddd98 = (
     "Afonso Cunha", "Água Doce Do Maranhão", "Alcântara", "Altamira Do Maranhão", "Alto Alegre Do Pindaré",
@@ -202,7 +202,7 @@ ddd98 = (
     "Santo Amaro Do Maranhão", "São Benedito Do Rio Preto", "São Bento", "São Bernardo", "São João Batista",
     "São João Do Carú", "São José De Ribamar", "São Luís", "São Vicente Ferrer", "Satubinha", "Serrano Do Maranhão",
     "Tufilândia", "Turiaçu", "Turilândia","Tutóia", "Urbano Santos", "Vargem Grande", "Viana", "Vitória Do Mearim",
-    "Vitorino Freire", "Zé Doca"
+    "Vitorino Freire", "Zé Doca",
 )
 
 ddd99 = (
@@ -223,7 +223,7 @@ ddd99 = (
     "São Luís Gonzaga Do Maranhão", "São Mateus Do Maranhão", "São Pedro Da Água Branca", "São Pedro Dos Crentes",
     "São Raimundo Das Mangabeiras", "São Raimundo Do Doca Bezerra", "São Roberto", "Senador Alexandre Costa", "Senador La Rocque",
     "Sítio Novo", "Sucupira Do Norte", "Sucupira Do Riachão", "Tasso Fragoso", "Timbiras", "Timon", "Trizidela Do Vale",
-    "Tuntum", "Vila Nova Dos Martírios"
+    "Tuntum", "Vila Nova Dos Martírios",
 )
 ddd65 = (
     "Acorizal", "Alto Paraguai", "Araputanga", "Arenápolis", "Barão De Melgaço", "Barra Do Bugres",
@@ -234,7 +234,7 @@ ddd65 = (
     "Nova Mutum", "Nova Olímpia", "Poconé", "Pontes E Lacerda", "Porto Esperidião", "Porto Estrela", "Reserva Do Cabaçal",
     "Rio Branco", "Rosário Oeste", "Salto Do Céu", "Santa Rita Do Trivelato", "Santo Afonso", "Santo Antônio Do Leverger",
     "São José Do Rio Claro", "São José Dos Quatro Marcos", "Sapezal", "Tangará Da Serra", "Vale De São Domingos", "Várzea Grande",
-    "Vila Bela Da Santíssima Trindade"
+    "Vila Bela Da Santíssima Trindade",
 )
 ddd66 = (
     "Água Boa", "Alta Floresta", "Alto Araguaia", "Alto Boa Vista", "Alto Garças", "Alto Taquari", "Apiacás",
@@ -250,7 +250,7 @@ ddd66 = (
     "Rondonópolis", "Santa Carmem", "Santa Cruz Do Xingu", "Santa Terezinha", "Santo Antonio Do Leste",
     "São Félix Do Araguaia", "São José Do Povo", "São José Do Xingu", "São Pedro Da Cipa", "Serra Nova Dourada",
     "Sinop", "Sorriso", "Tabaporã", "Tapurah", "Terra Nova Do Norte", "Tesouro", "Torixoréu", "União Do Sul",
-    "Vera", "Vila Rica"
+    "Vera", "Vila Rica",
 )
 ddd37 = (
     "Abaeté", "Araújos", "Arcos", "Bambuí", "Biquinhas", "Bom Despacho", "Camacho", "Campos Altos", "Capitólio",
@@ -261,7 +261,7 @@ ddd37 = (
     "Onça De Pitangui", "Paineiras", "Pains", "Papagaios", "Pará De Minas", "Passa Tempo", "Pedra Do Indaiá", "Pequi",
     "Perdigão", "Pimenta", "Piracema", "Pitangui", "Piuí", "Pompéu", "Quartel Geral", "Santo Antônio Do Monte",
     "São Francisco De Paula", "São Gonçalo Do Pará", "São José Da Varginha", "São Roque De Minas", "São Sebastião Do Oeste",
-    "Serra Da Saudade", "Tapiraí", "Vargem Bonita"
+    "Serra Da Saudade", "Tapiraí", "Vargem Bonita",
 )
 
 # cities identified by area code
