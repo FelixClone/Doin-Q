@@ -16,9 +16,9 @@ ddd97 = (
     "Tabatinga", "Tapaua", "Tefe", "Tonantins", "Uarini",
 )
 ddd71 = (
-    "Camacari", "Candeias", "Catu", "Dias D'Avila", "Itaparica", "Lauro De Freitas",
-    "Madre De Deus","Mata De São João", "Pojuca", "Salvador", "São Francisco Do Conde",
-    "São Sebastião Do Passe", "Simões Filho", "Vera Cruz",
+    'Camacari', 'Candeias', 'Catu', 'Dias D` Avila', 'Itaparica', 'Lauro De Freitas',
+    'Madre De Deus','Mata De São João', 'Pojuca', 'Salvador', 'São Francisco Do Conde',
+    'São Sebastião Do Passe', 'Simões Filho', 'Vera Cruz',
 )
 ddd73 = (
     "Aiquara", "Alcobaça", "Almadina", "Apuarema", "Arataca", "Aurelino Leal", 

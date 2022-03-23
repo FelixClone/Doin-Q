@@ -1,6 +1,6 @@
 import time
 
-estados = (
+state = (
     "acre","alagoas","amapa","amazonas","bahia","ceara","espirito santo","goias","maranhão",
     "mato grosso","mato grosso do sul","minas gerais","para","paraiba","piaui","rio de janeiro",
     "rio grande do norte", "rio grande do sul", "roraima", "santa catarina", "sao paulo", "sergipe", 
@@ -96,8 +96,8 @@ def SP():
 
 # States and DDD
 def StatesList():
-    for i in range(len(estados)):
-        print(estados[i])
+    for i in range(len(state)):
+        print(state[i])
         time.sleep(0.01)
 def DDDList():
     for i in range(len(ddd)):
