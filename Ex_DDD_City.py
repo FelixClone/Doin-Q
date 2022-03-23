@@ -253,6 +253,29 @@ ddd66 = (
     "Vera", "Vila Rica",
 )
 
+ddd31 = (
+    'Abre Campo', 'Acaiaca', 'Alvinópolis', 'Alvorada De Minas', 'Amparo Do Serra', 'Antônio Dias',
+    'Araçaí', 'Araponga', 'Baldim', 'Barão De Cocais', 'Barra Longa', 'Bela Vista De Minas',
+    'Belo Horizonte', 'Belo Oriente', 'Belo Vale', 'Betim', 'Bom Jesus Do Amparo', 'Bonfim',
+    'Brumadinho', 'Cachoeira Da Prata', 'Caetanópolis', 'Caeté', 'Cajuri', 'Canaã', 'Capela Nova',
+    'Capim Branco', 'Caputira', 'Caranaíba', 'Carmésia', 'Casa Grande', 'Catas Altas', 'Catas Altas Da Noruega',
+    'Conceição Do Mato Dentro', 'Confins', 'Congonhas', 'Congonhas Do Norte', 'Conselheiro Lafaiete', 'Contagem',
+    'Cordisburgo', 'Coronel Fabriciano', 'Cristiano Otoni', 'Crucilândia', 'Desterro De Entre Rios', 'Diogo De Vasconcelos',
+    'Dionísio', 'Dom Joaquim', 'Dom Silvério', 'Entre Rios De Minas', 'Esmeraldas', 'Ferros', 'Florestal', 'Fortuna De Minas',
+    'Funilândia', 'Guaraciaba', 'Ibirité', 'Igarapé', 'Inhaúma', 'Ipaba', 'Ipatinga', 'Itabira', 'Itabirito', 'Itaguara',
+    'Itambé Do Mato Dentro', 'Itatiaiuçu', 'Itaverava', 'Jaboticatubas', 'Jaguaraçu', 'Jeceaba', 'Jequeri', 'Jequitibá',
+    'João Monlevade', 'Juatuba', 'Lagoa Santa', 'Lamim', 'Mariana', 'Mário Campos', 'Marliéria', 'Mateus Leme', 'Matipó',
+    'Matozinhos', 'Moeda', 'Morro Do Pilar', 'Nova Era', 'Nova Lima', 'Nova União', 'Oratórios', 'Ouro Branco', 'Ouro Preto',
+    'Paraopeba', 'Passabém', 'Pedra Bonita', 'Pedra Do Anta', 'Pedro Leopoldo', 'Piedade De Ponte Nova', 'Piedade Dos Gerais',
+    'Piranga', 'Ponte Nova', 'Porto Firme', 'Prudente De Morais', 'Queluzita', 'Raposos', 'Ribeirão Das Neves', 'Rio Acima',
+    'Rio Casca', 'Rio Doce', 'Rio Espera', 'Rio Manso', 'Rio Piracicaba', 'Sabará', 'Santa Bárbara', 'Santa Cruz Do Escalvado',
+    'Santa Luzia', 'Santa Margarida', 'Santa Maria De Itabira', 'Santana De Pirapama', 'Santana Do Paraíso', 'Santana Do Riacho',
+    'Santana Dos Montes', 'Santo Antônio Do Grama', 'Santo Antônio Do Rio Abaixo', 'São Brás Do Suaçuí', 'São Domingos Do Prata',
+    'São Gonçalo Do Rio Abaixo', 'São Joaquim De Bicas', 'São José Da Lapa', 'São José Do Goiabal', 'São Miguel Do Anta',
+    'São Sebastião Do Rio Preto', 'Sarzedo', 'Sem-Peixe', 'Senhora De Oliveira', 'Sericita', 'Sete Lagoas', 'Taquaraçu De Minas',
+    'Teixeiras', 'Timóteo', 'Urucânia', 'Vespasiano', 'Viçosa',
+)
+
 ddd32 = (
     'Além Paraíba', 'Alfredo Vasconcelos', 'Alto Caparaó', 'Alto Rio Doce', 'Antônio Carlos', 'Antônio Prado De Minas',
     'Aracitaba', 'Arantina', 'Argirita', 'Astolfo Dutra', 'Barão De Monte Alto', 'Barbacena', 'Barroso', 'Bias Fortes',
@@ -271,6 +294,33 @@ ddd32 = (
     'Santos Dumont', 'São Francisco Do Glória', 'São Geraldo', 'São João Del Rei', 'São João Nepomuceno', 'São Sebastião Da Vargem Alegre',
     'São Tiago', 'Senador Cortes', 'Senador Firmino', 'Senhora Dos Remédios', 'Silveirânia', 'Simão Pereira', 'Tabuleiro', 'Tiradentes',
     'Tocantins', 'Tombos', 'Ubá', 'Vieiras', 'Visconde Do Rio Branco', 'Volta Grande',
+)
+
+ddd33 = (
+    'Açucena', 'Água Boa', 'Águas Formosas', 'Águas Vermelhas', 'Aimorés', 'Almenara', 'Alpercata', 'Alto Jequitibá',
+    'Alvarenga','Angelândia', 'Araçuaí', 'Ataléia', 'Bandeira', 'Berilo', 'Bertópolis', 'Bom Jesus Do Galho', 'Braúnas',
+    'Bugre', 'Cachoeira De Pajeú','Campanário', 'Cantagalo', 'Capelinha', 'Capitão Andrade', 'Caraí', 'Caratinga',
+    'Carlos Chagas', 'Catuji', 'Central De Minas', 'Chalé', 'Chapada Do Norte', 'Coluna', 'Comercinho', 'Conceição De Ipanema',
+    'Conselheiro Pena', 'Coroaci', 'Coronel Murta', 'Córrego Novo', 'Crisólita', 'Cuparaque', 'Curral De Dentro', 'Divino Das Laranjeiras',
+    'Divinolândia De Minas', 'Divisa Alegre', 'Divisópolis', 'Dom Cavati', 'Dores De Guanhães', 'Durandé', 'Engenheiro Caldas',
+    'Entre Folhas', 'Felisburgo', 'Fernandes Tourinho', 'Francisco Badaró', 'Franciscópolis', 'Frei Gaspar', 'Frei Inocêncio',
+    'Frei Lagonegro', 'Fronteira Dos Vales', 'Galiléia', 'Goiabeira', 'Gonzaga', 'Governador Valadares', 'Guanhães', 'Iapu',
+    'Imbé De Minas', 'Inhapim', 'Ipanema', 'Itabirinha De Mantena', 'Itaipé', 'Itambacuri', 'Itanhomi', 'Itaobim', 'Itinga',
+    'Itueta', 'Jacinto', 'Jampruca', 'Jenipapo De Minas', 'Jequitinhonha', 'Joaíma', 'Joanésia', 'Jordânia', 'José Gonçalves De Minas',
+    'José Raydan', 'Ladainha', 'Lajinha', 'Leme Do Prado', 'Luisburgo', 'Machacalis', 'Malacacheta', 'Manhuaçu', 'Manhumirim',
+    'Mantena', 'Marilac', 'Martins Soares', 'Mata Verde', 'Materlândia', 'Mathias Lobato', 'Medina', 'Mendes Pimentel',
+    'Mesquita', 'Minas Novas', 'Monte Formoso', 'Mutum', 'Nacip Raydan', 'Nanuque', 'Naque', 'Nova Belém', 'Nova Módica',
+    'Novo Cruzeiro', 'Novo Oriente De Minas', 'Ouro Verde De Minas', 'Padre Paraíso', 'Palmópolis', 'Paulistas', 'Pavão',
+    'Peçanha', 'Pedra Azul', 'Periquito', 'Pescador', 'Piedade De Caratinga', 'Pingo D’água', 'Pocrane', 'Ponto Dos Volantes',
+    'Poté', 'Raul Soares', 'Reduto', 'Resplendor', 'Rio Do Prado', 'Rio Vermelho', 'Rubim', 'Sabinópolis', 'Salto Da Divisa',
+    'Santa Bárbara Do Leste', 'Santa Efigênia De Minas', 'Santa Helena De Minas', 'Santa Maria Do Salto', 'Santa Maria Do Suaçuí',
+    'Santa Rita De Minas', 'Santa Rita Do Itueto', 'Santana Do Manhuaçu', 'Santo Antônio Do Itambé', 'Santo Antônio Do Jacinto',
+    'São Domingos Das Dores', 'São Félix De Minas', 'São Geraldo Da Piedade', 'São Geraldo Do Baixio', 'São João Do Manhuaçu',
+    'São João Do Manteninha', 'São João Do Oriente', 'São João Evangelista', 'São José Da Safira', 'São José Do Divino',
+    'São José Do Jacuri', 'São José Do Mantimento', 'São Pedro Do Suaçuí', 'São Pedro Dos Ferros', 'São Sebastião Do Anta',
+    'São Sebastião Do Maranhão', 'Sardoá', 'Senhora Do Porto', 'Serra Dos Aimorés', 'Setubinha', 'Simonésia', 'Sobrália',
+    'Taparuba', 'Tarumirim', 'Teófilo Otoni', 'Tumiritinga', 'Ubaporanga', 'Umburatiba', 'Vargem Alegre', 'Vermelho Novo',
+    'Virgem Da Lapa', 'Virginópolis', 'Virgolândia',    
 )
 
 ddd34 = (
@@ -373,9 +423,17 @@ def ExDDD66():
     for i in range(len(ddd66)):
         print(ddd66[i])
         time.sleep(0.01)
+def ExDDD31():
+    for i in range(len(ddd31)):
+        print(ddd31[i])
+        time.sleep(0.01)
 def ExDDD32():
     for i in range(len(ddd32)):
         print(ddd32[i])
+        time.sleep(0.01)
+def ExDDD33():
+    for i in range(len(ddd33)):
+        print(ddd33[i])
         time.sleep(0.01)
 def ExDDD34():
     for i in range(len(ddd34)):

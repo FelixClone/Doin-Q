@@ -342,6 +342,25 @@ def Function66():
         print("O modo avançado já é para aqueles que querem saber mais detalhes sobre o DDD como por exemplo a cidade")
     else:
         print("Você escreveu algo errado ❌")
+def Function31():
+    print(" --------------------")
+    print("|  Modo simples  [1] |")
+    print("|  Modo avançado [2] |")
+    print("|  Ajuda         [3] |")
+    print(" --------------------")
+    mod_menu = int(input("Escolha o modo a partir do numero:\n"))
+    if mod_menu == 1:
+        print("\nEsse DDD pertence a Minas Gerais")
+    elif mod_menu == 2:
+        print("\nO ddd 31 pertence a Minas Gerais e suas respectivas cidades são: ")
+        print("")
+        Ex.ExDDD31()
+    elif mod_menu == 3:
+        print("[Modo ajuda]")
+        print("O modo simples ele foi criado para ajudar o usuario a identificar o estado pelo ddd de modo mais simples e rapido")
+        print("O modo avançado já é para aqueles que querem saber mais detalhes sobre o DDD como por exemplo a cidade")
+    else:
+        print("Você escreveu algo errado ❌")
 def Function32():
     print(" --------------------")
     print("|  Modo simples  [1] |")
@@ -355,6 +374,25 @@ def Function32():
         print("\nO ddd 32 pertence a Minas Gerais e suas respectivas cidades são: ")
         print("")
         Ex.ExDDD32()
+    elif mod_menu == 3:
+        print("[Modo ajuda]")
+        print("O modo simples ele foi criado para ajudar o usuario a identificar o estado pelo ddd de modo mais simples e rapido")
+        print("O modo avançado já é para aqueles que querem saber mais detalhes sobre o DDD como por exemplo a cidade")
+    else:
+        print("Você escreveu algo errado ❌")
+def Function33():
+    print(" --------------------")
+    print("|  Modo simples  [1] |")
+    print("|  Modo avançado [2] |")
+    print("|  Ajuda         [3] |")
+    print(" --------------------")
+    mod_menu = int(input("Escolha o modo a partir do numero:\n"))
+    if mod_menu == 1:
+        print("\nEsse DDD pertence a Minas Gerais")
+    elif mod_menu == 2:
+        print("\nO ddd 33 pertence a Minas Gerais e suas respectivas cidades são: ")
+        print("")
+        Ex.ExDDD33()
     elif mod_menu == 3:
         print("[Modo ajuda]")
         print("O modo simples ele foi criado para ajudar o usuario a identificar o estado pelo ddd de modo mais simples e rapido")
