@@ -337,6 +337,32 @@ ddd34 = (
     'Uberaba', 'Uberlândia', 'União De Minas', 'Vazante', 'Veríssimo',
 )
 
+ddd35 = (
+    'Aguanil', 'Aiuruoca', 'Alagoa', 'Albertina', 'Alfenas', 'Alpinópolis', 'Alterosa', 'Andradas',
+    'Andrelândia', 'Arceburgo', 'Areado', 'Baependi', 'Bandeira Do Sul', 'Boa Esperança', 'Bom Jesus Da Penha',
+    'Bom Repouso', 'Bom Sucesso', 'Borda Da Mata', 'Botelhos', 'Brasópolis', 'Bueno Brandão', 'Cabo Verde',
+    'Cachoeira De Minas', 'Caldas', 'Camanducaia', 'Cambuí', 'Cambuquira', 'Campanha', 'Campestre', 'Campo Belo',
+    'Campo Do Meio', 'Campos Gerais', 'Cana Verde', 'Candeias', 'Capetinga', 'Careaçu', 'Carmo Da Cachoeira',
+    'Carmo De Minas', 'Carmo Do Rio Claro', 'Carrancas', 'Carvalhópolis', 'Carvalhos', 'Cássia', 'Caxambu',
+    'Conceição Da Aparecida', 'Conceição Das Pedras', 'Conceição Do Rio Verde', 'Conceição Dos Ouros',
+    'Congonhal', 'Consolação', 'Coqueiral', 'Cordislândia', 'Córrego Do Bom Jesus', 'Cristais', 'Cristina',
+    'Cruzília', 'Delfim Moreira', 'Delfinópolis', 'Divisa Nova', 'Dom Viçoso', 'Elói Mendes',
+    'Espírito Santo Do Dourado', 'Estiva', 'Extrema', 'Fama', 'Fortaleza De Minas', 'Gonçalves', 'Guapé',
+    'Guaranésia', 'Guaxupé', 'Heliodora', 'Ibiraci', 'Ibitiúra De Minas', 'Ibituruna', 'Ijaci', 'Ilicínea',
+    'Inconfidentes', 'Ingaí', 'Ipuiúna', 'Itajubá', 'Itamogi', 'Itamonte', 'Itanhandu', 'Itapeva', 'Itaú De Minas',
+    'Itumirim', 'Itutinga', 'Jacuí', 'Jacutinga', 'Jesuânia', 'Juruaia', 'Lambari', 'Lavras', 'Luminárias',
+    'Machado', 'Maria Da Fé', 'Marmelópolis', 'Minduri', 'Monsenhor Paulo', 'Monte Belo', 'Monte Santo De Minas',
+    'Monte Sião', 'Munhoz', 'Muzambinho', 'Natércia', 'Nazareno', 'Nepomuceno', 'Nova Resende', 'Olímpio Noronha',
+    'Ouro Fino', 'Paraguaçu', 'Paraisópolis', 'Passa Quatro', 'Passos', 'Pedralva', 'Perdões', 'Piranguçu',
+    'Piranguinho', 'Poço Fundo', 'Poços De Caldas', 'Pouso Alegre', 'Pouso Alto', 'Pratápolis', 'Ribeirão Vermelho',
+    'Santa Rita De Caldas', 'Santa Rita Do Sapucaí', 'Santana Da Vargem', 'Santana Do Jacaré', 'Santo Antônio Do Amparo',
+    'São Bento Abade', 'São Gonçalo Do Sapucaí', 'São João Batista Do Glória', 'São João Da Mata', 'São José Da Barra',
+    'São José Do Alegre', 'São Lourenço', 'São Pedro Da União', 'São Sebastião Da Bela Vista', 'São Sebastião Do Paraíso',
+    'São Sebastião Do Rio Verde', 'São Thome Das Letras', 'São Tomás De Aquino', 'São Vicente De Minas', 'Sapucaí-Mirim',
+    'Senador Amaral', 'Senador José Bento', 'Seritinga', 'Serrania', 'Serranos', 'Silvianópolis', 'Soledade De Minas',
+    'Tocos Do Mogi', 'Toledo', 'Três Corações', 'Três Pontas', 'Turvolândia', 'Varginha', 'Virgínia', 'Wenceslau Braz',
+)
+
 ddd37 = (
     "Abaeté", "Araújos", "Arcos", "Bambuí", "Biquinhas", "Bom Despacho", "Camacho", "Campos Altos", "Capitólio",
     "Carmo Da Mata", "Carmo Do Cajuru", "Carmópolis De Minas", "Cedro Do Abaeté", "Cláudio", "Conceição Do Pará",
@@ -347,6 +373,23 @@ ddd37 = (
     "Perdigão", "Pimenta", "Piracema", "Pitangui", "Piuí", "Pompéu", "Quartel Geral", "Santo Antônio Do Monte",
     "São Francisco De Paula", "São Gonçalo Do Pará", "São José Da Varginha", "São Roque De Minas", "São Sebastião Do Oeste",
     "Serra Da Saudade", "Tapiraí", "Vargem Bonita",
+)
+
+ddd93 = (
+    'Alenquer', 'Almeirim', 'Altamira', 'Aveiro', 'Belterra', 'Brasil Novo', 'Curuá', 'Faro', 'Itaituba',
+    'Jacareacanga', 'Juruti', 'Medicilândia', 'Mojuí Dos Campos', 'Monte Alegre', 'Novo Progresso', 'Óbidos',
+    'Oriximiná', 'Placas', 'Porto De Moz', 'Prainha', 'Rurópolis', 'Santarém', 'Terra Santa', 'Trairão',
+    'Uruará', 'Vitória Do Xingu'
+)
+
+ddd94 = (
+    'Abel Figueiredo', 'Água Azul Do Norte', 'Bannach', 'Bom Jesus Do Tocantins', 'Brejo Grande Do Araguaia',
+    'Brejo Grande Do Araguaia', 'Breu Branco', 'Canaã Dos Carajás', 'Conceição Do Araguaia', 'Cumaru Do Norte',
+    'Curionópolis', 'Dom Eliseu', 'Eldorado Dos Carajás', 'Floresta Do Araguaia', 'Goianésia Do Pará',
+    'Itupiranga', 'Jacundá', 'Marabá', 'Nova Ipixuna', 'Novo Repartimento', 'Ourilândia Do Norte',
+    'Palestina Do Pará', 'Parauapebas', 'Pau D`arco', 'Piçarra', 'Redenção', 'Rio Maria', 'Rondon Do Pará',
+    'Santa Maria Das Barreiras', 'Santana Do Araguaia', 'São Domingos Do Araguaia', 'São Félix Do Xingu',
+    'São Geraldo Do Araguaia', 'São João Do Araguaia', 'Sapucaia', 'Tucumã', 'Tucuruí', 'Xinguara',
 )
 
 # cities identified by area code
@@ -439,7 +482,19 @@ def ExDDD34():
     for i in range(len(ddd34)):
         print(ddd34[i])
         time.sleep(0.01)
+def ExDDD35():
+    for i in range(len(ddd35)):
+        print(ddd35[i])
+        time.sleep(0.01)
 def ExDDD37():
     for i in range(len(ddd37)):
         print(ddd37[i])
+        time.sleep(0.01)
+def ExDDD93():
+    for i in range(len(ddd93)):
+        print(ddd93[i])
+        time.sleep(0.01)
+def ExDDD94():
+    for i in range(len(ddd94)):
+        print(ddd94[i])
         time.sleep(0.01)

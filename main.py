@@ -138,8 +138,14 @@ while True:
             ExF.Function33()
         elif ddd_again == 34:
             ExF.Function34()
+        elif ddd_again == 35:
+            ExF.Function35()
         elif ddd_again == 37:
             ExF.Function37()
+        elif ddd_again == 93:
+            ExF.Function93()
+        elif ddd_again == 94:
+            ExF.Function94()
         else:
             print("\nO ddd",ddd_again, "não foi encontrado 🤔")
             print("Motivos: \n1 - O ddd ainda não foi adicionado\n2 - DDD não existe\n")
