@@ -144,6 +144,10 @@ while True:
             ExF.Function37()
         elif ddd_again == 41:
             ExF.Function41()
+        elif ddd_again == 42:
+            ExF.Function42()
+        elif ddd_again == 45:
+            ExF.Function45()
         elif ddd_again == 46:
             ExF.Function46()
         elif ddd_again == 91:

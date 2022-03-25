@@ -385,6 +385,28 @@ ddd41 = (
     'Tunas Do Paraná',
 )
 
+ddd42 = ( #Remember: Sc this mixed with Pr
+    'Antônio Olinto', 'Bituruna', 'Boa Ventura De São Roque', 'Campina Do Simão', 'Candói', 'Cantagalo',
+    'Carambeí', 'Castro', 'Cruz Machado', 'Fernandes Pinheiro', 'Foz Do Jordão', 'General Carneiro',
+    'Goioxim', 'Guamiranga', 'Guarapuava', 'Imbaú', 'Imbituva', 'Inácio Martins', 'Ipiranga', 'Irati',
+    'Ivaí', 'Laranjal', 'Laranjeiras Do Sul', 'Mallet', 'Marquinho', 'Mato Rico', 'Nova Laranjeiras',
+    'Nova Tebas', 'Ortigueira', 'Palmeira', 'Palmital', 'Paula Freitas', 'Paulo Frontin', 'Pinhão',
+    'Piraí Do Sul', 'Pitanga', 'Ponta Grossa', 'Porto Amazonas', 'Porto Barreiro', 'Porto União – SC',
+    'Porto Vitória', 'Prudentópolis', 'Rebouças', 'Reserva', 'Reserva Do Iguaçu', 'Rio Azul',
+    'Rio Bonito Do Iguaçu', 'Santa Maria Do Oeste', 'São João Do Triunfo', 'São Mateus Do Sul',
+    'Teixeira Soares', 'Telêmaco Borba', 'Tibagi', 'Turvo', 'União Da Vitória', 'Ventania', 'Virmond',
+)
+
+ddd45 = (
+    'Anahy', 'Boa Vista Da Aparecida', 'Braganey', 'Cafelândia', 'Campo Bonito', 'Capitão Leônidas Marques', 'Cascavel',
+    'Catanduvas', 'Céu Azul', 'Corbélia', 'Diamante Do Sul', 'Diamante D’oeste', 'Entre Rios Do Oeste',
+    'Foz Do Iguaçu', 'Guaraniaçu', 'Ibema', 'Iguatu', 'Itaipulândia', 'Lindoeste', 'Marechal Cândido Rondon',
+    'Matelândia', 'Medianeira', 'Mercedes', 'Missal', 'Nova Aurora', 'Nova Santa Rosa', 'Ouro Verde Do Oeste',
+    'Pato Bragado', 'Quatro Pontes', 'Ramilândia', 'Santa Helena', 'Santa Lúcia', 'Santa Tereza Do Oeste',
+    'Santa Terezinha De Itaipu', 'São José Das Palmeiras', 'São Miguel Do Iguaçu', 'São Pedro Do Iguaçu',
+    'Serranópolis Do Iguaçu', 'Toledo', 'Três Barras Do Paraná', 'Vera Cruz Do Oeste',
+)
+
 ddd46 = (
     'Ampére', 'Barracão', 'Bela Vista Da Caroba', 'Boa Esperança Do Iguaçu', 'Bom Jesus Do Sul',
     'Bom Sucesso Do Sul', 'Capanema', 'Chopinzinho', 'Clevelândia', 'Coronel Domingos Soares', 'Coronel Vivida',
@@ -532,6 +554,14 @@ def ExDDD37():
 def ExDDD41():
     for i in range(len(ddd41)):
         print(ddd41[i])
+        time.sleep(0.01)
+def ExDDD42():
+    for i in range(len(ddd42)):
+        print(ddd42[i])
+        time.sleep(0.01)
+def ExDDD45():
+    for i in range(len(ddd45)):
+        print(ddd45[i])
         time.sleep(0.01)
 def ExDDD46():
     for i in range(len(ddd46)):
