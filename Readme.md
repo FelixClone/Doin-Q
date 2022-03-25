@@ -12,7 +12,7 @@
 
 # Visualização do aplicativo
 
-<img align="center" src="https://im5.ezgif.com/tmp/ezgif-5-4f7b7d0970.gif">
+<img align="center" src="![GIF-aaaaaa](https://user-images.githubusercontent.com/85363903/160154757-ab2bd12f-7636-4a71-8ca1-f12c36e41cc0.gif)">
 
 ## Sobre
 
