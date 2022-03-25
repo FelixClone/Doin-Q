@@ -12,7 +12,7 @@
 
 # Visualização do aplicativo
 
-![GIF-aaaaaa](https://user-images.githubusercontent.com/85363903/160154757-ab2bd12f-7636-4a71-8ca1-f12c36e41cc0.gif)">
+![GIF-aaaaaa](https://user-images.githubusercontent.com/85363903/160154757-ab2bd12f-7636-4a71-8ca1-f12c36e41cc0.gif)
 
 ## Sobre
 
