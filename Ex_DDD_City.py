@@ -375,6 +375,45 @@ ddd37 = (
     "Serra Da Saudade", "Tapiraí", "Vargem Bonita",
 )
 
+ddd41 = (
+    'Adrianópolis', 'Agudos Do Sul', 'Almirante Tamandaré', 'Antonina', 'Araucária', 'Balsa Nova',
+    'Bocaiúva Do Sul', 'Campina Grande Do Sul', 'Campo Do Tenente', 'Campo Largo', 'Campo Magro',
+    'Cerro Azul', 'Colombo', 'Contenda', 'Curitiba', 'Doutor Ulysses', 'Fazenda Rio Grande',
+    'Guaraqueçaba', 'Guaratuba', 'Itaperuçu', 'Lapa', 'Mandirituba', 'Matinhos', 'Morretes',
+    'Paranaguá', 'Piên', 'Pinhais', 'Piraquara', 'Pontal Do Paraná', 'Quatro Barras',
+    'Quitandinha', 'Rio Branco Do Sul', 'Rio Negro', 'São José Dos Pinhais', 'Tijucas Do Sul',
+    'Tunas Do Paraná',
+)
+
+ddd46 = (
+    'Ampére', 'Barracão', 'Bela Vista Da Caroba', 'Boa Esperança Do Iguaçu', 'Bom Jesus Do Sul',
+    'Bom Sucesso Do Sul', 'Capanema', 'Chopinzinho', 'Clevelândia', 'Coronel Domingos Soares', 'Coronel Vivida',
+    'Cruzeiro Do Iguaçu', 'Dois Vizinhos', 'Enéas Marques', 'Espigão Alto Do Iguaçu', 'Flor Da Serra Do Sul',
+    'Francisco Beltrão', 'Honório Serpa', 'Itapejara D’oeste', 'Manfrinópolis', 'Mangueirinha', 'Mariópolis',
+    'Marmeleiro', 'Nova Esperança Do Sudoeste', 'Nova Prata Do Iguaçu', 'Palmas', 'Pato Branco', 'Pérola D`oeste',
+    'Pinhal De São Bento', 'Planalto', 'Pranchita', 'Quedas Do Iguaçu', 'Realeza', 'Renascença', 'Salgado Filho',
+    'Salto Do Lontra', 'Santa Izabel Do Oeste', 'Santo Antônio Do Sudoeste', 'São João', 'São Jorge D`oeste',
+    'Saudade Do Iguaçu', 'Sulina', 'Verê', 'Vitorino',
+)
+
+ddd91 = (
+    'Abaetetuba', 'Acará', 'Acará', 'Anajás', 'Ananindeua', 'Anapu', 'Augusto Corrêa', 'Aurora Do Pará',
+    'Bagre', 'Baião', 'Barcarena', 'Belém', 'Benevides', 'Bonito', 'Bragança', 'Breves', 'Bujaru',
+    'Cachoeira Do Arari', 'Cachoeira Do Piriá', 'Cametá', 'Capanema', 'Capitão Poço', 'Castanhal',
+    'Chaves', 'Colares', 'Concórdia Do Pará', 'Curralinho', 'Curuçá', 'Garrafão Do Norte',
+    'Gurupá', 'Igarapé-Açu', 'Igarapé-Miri', 'Inhangapi', 'Ipixuna Do Pará', 'Irituia',
+    'Limoeiro Do Ajuru', 'Mãe Do Rio', 'Magalhães Barata', 'Maracanã', 'Marapanim',
+    'Marituba', 'Melgaço', 'Mocajuba', 'Moju', 'Muaná', 'Nova Esperança Do Piriá',
+    'Nova Timboteua', 'Oeiras Do Pará', 'Ourém', 'Pacajá', 'Paragominas', 'Peixe-Boi',
+    'Ponta De Pedras', 'Portel', 'Primavera', 'Quatipuru', 'Salinópolis', 'Salvaterra',
+    'Santa Bárbara Do Pará', 'Santa Cruz Do Arari', 'Santa Isabel Do Pará',
+    'Santa Luzia Do Pará', 'Santa Maria Do Pará', 'Santarém Novo', 'Santo Antônio Do Tauá',
+    'São Caetano De Odivelas', 'São Domingos Do Capim', 'São Francisco Do Pará',
+    'São João Da Ponta', 'São João De Pirabas', 'São Miguel Do Guamá',
+    'São Sebastião Da Boa Vista', 'Senador José Porfírio', 'Soure', 'Tailândia',
+    'Terra Alta', 'Tomé-Açu', 'Tracuateua', 'Ulianópolis', 'Vigia', 'Viseu',
+)
+
 ddd93 = (
     'Alenquer', 'Almeirim', 'Altamira', 'Aveiro', 'Belterra', 'Brasil Novo', 'Curuá', 'Faro', 'Itaituba',
     'Jacareacanga', 'Juruti', 'Medicilândia', 'Mojuí Dos Campos', 'Monte Alegre', 'Novo Progresso', 'Óbidos',
@@ -489,6 +528,18 @@ def ExDDD35():
 def ExDDD37():
     for i in range(len(ddd37)):
         print(ddd37[i])
+        time.sleep(0.01)
+def ExDDD41():
+    for i in range(len(ddd41)):
+        print(ddd41[i])
+        time.sleep(0.01)
+def ExDDD46():
+    for i in range(len(ddd46)):
+        print(ddd46[i])
+        time.sleep(0.01)
+def ExDDD91():
+    for i in range(len(ddd91)):
+        print(ddd91[i])
         time.sleep(0.01)
 def ExDDD93():
     for i in range(len(ddd93)):
