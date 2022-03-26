@@ -45,5 +45,5 @@ para saber as opções
 
 ## Pre-requisitos
 
-Para o aplivativo poder rodar em seu computador, você precisara do **python3** 
+- **python3** 
 
