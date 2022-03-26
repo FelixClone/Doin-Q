@@ -13,7 +13,7 @@ while True:
     search = input("\nO que gostaria de pesquisar?\n")
     if search == "estado":
 
-    #Stades decision
+    #States decision
 
         state = input("\nPor favor digite o nome do estado:\n")
         if state == "acre":
@@ -25,7 +25,6 @@ while True:
         elif state == "amazonas":
             print("\nOs DDD's correspondente ao Amazonas são: ")
             Data.AM()
-
         elif state == "bahia": 
             print("\nOs DDD's correspondente a Bahia são: ")
             Data.BA()
