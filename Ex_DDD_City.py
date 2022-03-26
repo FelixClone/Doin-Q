@@ -496,42 +496,7 @@ ddd94 = (
 
 # cities identified by area code
 
-def ExDDD92():
-    for i in range(len(ddd92)):
-        print(ddd92[i])
-        time.sleep(0.01)
-def ExDDD97():
-    for i in range(len(ddd97)):
-        print(ddd97[i])
-        time.sleep(0.01)
-def ExDDD71():
-    for i in range(len(ddd71)):
-        print(ddd71[i])
-        time.sleep(0.01)
-def ExDDD73():
-    for i in range(len(ddd73)):
-        print(ddd73[i])
-        time.sleep(0.01)
-def ExDDD74():
-    for i in range(len(ddd74)):
-        print(ddd74[i])
-        time.sleep(0.01)
-def ExDDD75():
-    for i in range(len(ddd75)):
-        print(ddd75[i])
-        time.sleep(0.01)
-def ExDDD77():
-    for i in range(len(ddd77)):
-        print(ddd77[i])
-        time.sleep(0.01)
-def ExDDD85():
-    for i in range(len(ddd85)):
-        print(ddd85[i])
-        time.sleep(0.01)
-def ExDDD88():
-    for i in range(len(ddd88)):
-        print(ddd88[i])
-        time.sleep(0.01)
+
 def ExDDD27():
     for i in range(len(ddd27)):
         print(ddd27[i])
@@ -539,34 +504,6 @@ def ExDDD27():
 def ExDDD28():
     for i in range(len(ddd28)):
         print(ddd28[i])
-        time.sleep(0.01)
-def ExDDD61():
-    for i in range(len(ddd61)):
-        print(ddd61[i])
-        time.sleep(0.01)
-def ExDDD62():
-    for i in range(len(ddd62)):
-        print(ddd62[i])
-        time.sleep(0.01)
-def ExDDD64():
-    for i in range(len(ddd64)):
-        print(ddd64[i])
-        time.sleep(0.01)
-def ExDDD98():
-    for i in range(len(ddd98)):
-        print(ddd98[i])
-        time.sleep(0.01)
-def ExDDD99():
-    for i in range(len(ddd99)):
-        print(ddd99[i])
-        time.sleep(0.01)
-def ExDDD65():
-    for i in range(len(ddd65)):
-        print(ddd65[i])
-        time.sleep(0.01)
-def ExDDD66():
-    for i in range(len(ddd66)):
-        print(ddd66[i])
         time.sleep(0.01)
 def ExDDD31():
     for i in range(len(ddd31)):
@@ -616,6 +553,54 @@ def ExDDD46():
     for i in range(len(ddd46)):
         print(ddd46[i])
         time.sleep(0.01)
+def ExDDD61():
+    for i in range(len(ddd61)):
+        print(ddd61[i])
+        time.sleep(0.01)
+def ExDDD62():
+    for i in range(len(ddd62)):
+        print(ddd62[i])
+        time.sleep(0.01)
+def ExDDD64():
+    for i in range(len(ddd64)):
+        print(ddd64[i])
+        time.sleep(0.01)
+def ExDDD65():
+    for i in range(len(ddd65)):
+        print(ddd65[i])
+        time.sleep(0.01)
+def ExDDD66():
+    for i in range(len(ddd66)):
+        print(ddd66[i])
+        time.sleep(0.01)
+def ExDDD71():
+    for i in range(len(ddd71)):
+        print(ddd71[i])
+        time.sleep(0.01)
+def ExDDD73():
+    for i in range(len(ddd73)):
+        print(ddd73[i])
+        time.sleep(0.01)
+def ExDDD74():
+    for i in range(len(ddd74)):
+        print(ddd74[i])
+        time.sleep(0.01)
+def ExDDD75():
+    for i in range(len(ddd75)):
+        print(ddd75[i])
+        time.sleep(0.01)
+def ExDDD77():
+    for i in range(len(ddd77)):
+        print(ddd77[i])
+        time.sleep(0.01)
+def ExDDD85():
+    for i in range(len(ddd85)):
+        print(ddd85[i])
+        time.sleep(0.01)
+def ExDDD88():
+    for i in range(len(ddd88)):
+        print(ddd88[i])
+        time.sleep(0.01)
 def ExDDD91():
     for i in range(len(ddd91)):
         print(ddd91[i])
@@ -627,4 +612,16 @@ def ExDDD93():
 def ExDDD94():
     for i in range(len(ddd94)):
         print(ddd94[i])
+        time.sleep(0.01)
+def ExDDD97():
+    for i in range(len(ddd97)):
+        print(ddd97[i])
+        time.sleep(0.01)
+def ExDDD98():
+    for i in range(len(ddd98)):
+        print(ddd98[i])
+        time.sleep(0.01)
+def ExDDD99():
+    for i in range(len(ddd99)):
+        print(ddd99[i])
         time.sleep(0.01)
