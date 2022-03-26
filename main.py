@@ -90,47 +90,14 @@ while True:
             else:
                 print("\nVocê escreveu algo errado ❌")
 
-
 # area code
 
     elif search == "ddd":
         ddd_again = int(input("\npor favor digite o ddd: "))
-        if ddd_again == 92:
-            ExF.Function92()
-        elif ddd_again == 97:
-            ExF.Function97()
-        elif ddd_again == 71:
-            ExF.Function71()
-        elif ddd_again == 73:
-            ExF.Function73()
-        elif ddd_again == 74:
-            ExF.Function74()
-        elif ddd_again == 75:
-            ExF.Function75()
-        elif ddd_again == 77:
-            ExF.Function77()
-        elif ddd_again == 85:
-            ExF.Function85()
-        elif ddd_again == 88:
-            ExF.Function88()
-        elif ddd_again == 27:
+        if ddd_again == 27:
             ExF.Function27()
         elif ddd_again == 28:
             ExF.Function28()
-        elif ddd_again == 61:
-            ExF.Function61()
-        elif ddd_again == 62:
-            ExF.Function62()
-        elif ddd_again == 64:
-            ExF.Function64()
-        elif ddd_again == 98:
-            ExF.Function98()
-        elif ddd_again == 99:
-            ExF.Function99()
-        elif ddd_again == 65:
-            ExF.Function65()
-        elif ddd_again == 66:
-            ExF.Function66()
         elif ddd_again == 32:
             ExF.Function32()
         elif ddd_again == 33:
@@ -153,12 +120,48 @@ while True:
             ExF.Function45()
         elif ddd_again == 46:
             ExF.Function46()
+        elif ddd_again == 61:
+            ExF.Function61()
+        elif ddd_again == 62:
+            ExF.Function62()
+        elif ddd_again == 64:
+            ExF.Function64()
+        elif ddd_again == 65:
+            ExF.Function65()
+        elif ddd_again == 66:
+            ExF.Function66()
+        elif ddd_again == 71:
+            ExF.Function71()
+        elif ddd_again == 73:
+            ExF.Function73()
+        elif ddd_again == 74:
+            ExF.Function74()
+        elif ddd_again == 75:
+            ExF.Function75()
+        elif ddd_again == 77:
+            ExF.Function77()
+        elif ddd_again == 85:
+            ExF.Function85()
+        elif ddd_again == 86:
+            ExF.Function86()
+        elif ddd_again == 88:
+            ExF.Function88()
+        elif ddd_again == 89:
+            ExF.Function89()
         elif ddd_again == 91:
             ExF.Function91()
+        elif ddd_again == 92:
+            ExF.Function92()
         elif ddd_again == 93:
             ExF.Function93()
         elif ddd_again == 94:
             ExF.Function94()
+        elif ddd_again == 97:
+            ExF.Function97()
+        elif ddd_again == 98:
+            ExF.Function98()
+        elif ddd_again == 99:
+            ExF.Function99()
         else:
             print("\nO ddd",ddd_again, "não foi encontrado 🤔")
             print("Motivos: \n1 - O ddd ainda não foi adicionado\n2 - DDD não existe\n")
