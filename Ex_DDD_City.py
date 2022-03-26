@@ -397,6 +397,47 @@ ddd42 = ( #Remember: Sc this mixed with Pr
     'Teixeira Soares', 'Telêmaco Borba', 'Tibagi', 'Turvo', 'União Da Vitória', 'Ventania', 'Virmond',
 )
 
+ddd43 = (
+    'Abatiá', 'Alvorada Do Sul', 'Andirá', 'Apucarana', 'Arapongas', 'Arapoti', 'Arapuã',
+    'Ariranha Do Ivaí', 'Assaí', 'Bandeirantes', 'Barra Do Jacaré', 'Bom Sucesso',
+    'Borrazópolis', 'Cafeara', 'Califórnia', 'Cambará', 'Cambé', 'Cambira', 'Cândido De Abreu',
+    'Carlópolis', 'Centenário Do Sul', 'Congonhinhas', 'Conselheiro Mairinck', 'Cornélio Procópio',
+    'Cruzmaltina', 'Curiúva', 'Faxinal', 'Figueira', 'Florestópolis', 'Godoy Moreira', 'Grandes Rios',
+    'Guapirama', 'Guaraci', 'Ibaiti', 'Ibiporã', 'Itambaracá', 'Ivaiporã', 'Jaboti', 'Jacarezinho',
+    'Jaguapitã', 'Jaguariaíva', 'Jandaia Do Sul', 'Japira', 'Jardim Alegre', 'Jataizinho', 'Joaquim Távora',
+    'Jundiaí Do Sul', 'Kaloré', 'Leópolis', 'Lidianópolis', 'Londrina', 'Lunardelli', 'Lupionópolis',
+    'Manoel Ribas', 'Marilândia Do Sul', 'Marumbi', 'Mauá Da Serra', 'Miraselva', 'Nova América Da Colina',
+    'Nova Fátima', 'Nova Santa Bárbara', 'Novo Itacolomi', 'Pinhalão', 'Pitangueiras', 'Porecatu', 'Prado Ferreira',
+    'Primeiro De Maio', 'Quatiguá', 'Rancho Alegre', 'Ribeirão Claro', 'Ribeirão Do Pinhal', 'Rio Bom', 'Rio Branco Do Ivaí',
+    'Rolândia', 'Rosário Do Ivaí', 'Sabáudia', 'Salto Do Itararé', 'Santa Amélia', 'Santa Cecília Do Pavão',
+    'Santa Mariana', 'Santana Do Itararé', 'Santo Antônio Da Platina', 'Santo Antônio Do Paraíso',
+    'São Jerônimo Da Serra', 'São João Do Ivaí', 'São José Da Boa Vista', 'São Pedro Do Ivaí',
+    'São Sebastião Da Amoreira', 'Sapopema', 'Sengés', 'Sertaneja', 'Sertanópolis', 'Siqueira Campos',
+    'Tamarana', 'Tomazina', 'Uraí', 'Wenceslau Braz',
+)
+
+ddd44 = (
+    'Altamira Do Paraná', 'Alto Paraná', 'Alto Piquiri', 'Altônia', 'Amaporã', 'Ângulo', 'Araruna',
+    'Assis Chateaubriand', 'Astorga', 'Atalaia', 'Barbosa Ferraz', 'Boa Esperança', 'Brasilândia Do Sul',
+    'Cafezal Do Sul', 'Campina Da Lagoa', 'Campo Mourão', 'Cianorte', 'Cidade Gaúcha', 'Colorado',
+    'Corumbataí Do Sul', 'Cruzeiro Do Oeste', 'Cruzeiro Do Sul', 'Diamante Do Norte', 'Douradina',
+    'Doutor Camargo', 'Engenheiro Beltrão', 'Esperança Nova', 'Farol', 'Fênix', 'Floraí', 'Floresta',
+    'Flórida', 'Formosa Do Oeste', 'Francisco Alves', 'Goioerê', 'Guaíra', 'Guairaçá', 'Guaporema',
+    'Icaraíma', 'Iguaraçu', 'Inajá', 'Indianópolis', 'Iporã', 'Iracema Do Oeste', 'Iretama', 'Itaguajé',
+    'Itambé', 'Itaúna Do Sul', 'Ivaté', 'Ivatuba', 'Janiópolis', 'Japurá', 'Jardim Olinda', 'Jesuítas',
+    'Juranda', 'Jussara', 'Loanda', 'Lobato', 'Luiziana', 'Mamborê', 'Mandaguaçu', 'Mandaguari', 'Maria Helena',
+    'Marialva', 'Marilena', 'Mariluz', 'Maringá', 'Maripá', 'Mirador', 'Moreira Sales', 'Munhoz De Melo',
+    'Nossa Senhora Das Graças', 'Nova Aliança Do Ivaí', 'Nova Cantu', 'Nova Esperança', 'Nova Londrina',
+    'Nova Olímpia', 'Ourizona', 'Paiçandu', 'Palotina', 'Paraíso Do Norte', 'Paranacity', 'Paranapoema',
+    'Paranavaí', 'Peabiru', 'Perobal', 'Pérola', 'Planaltina Do Paraná', 'Porto Rico', 'Presidente Castelo Branco',
+    'Quarto Centenário', 'Querência Do Norte', 'Quinta Do Sol', 'Rancho Alegre D’oeste', 'Roncador',
+    'Rondon', 'Santa Cruz De Monte Castelo', 'Santa Fé', 'Santa Inês', 'Santa Isabel Do Ivaí',
+    'Santa Mônica', 'Santo Antônio Do Caiuá', 'Santo Inácio', 'São Carlos Do Ivaí', 'São João Do Caiuá',
+    'São Jorge Do Ivaí', 'São Jorge Do Patrocínio', 'São Manoel Do Paraná', 'São Pedro Do Paraná', 'São Tomé',
+    'Sarandi', 'Tamboara', 'Tapejara', 'Tapira', 'Terra Boa', 'Terra Rica', 'Terra Roxa', 'Tuneiras Do Oeste',
+    'Tupãssi', 'Ubiratã', 'Umuarama', 'Uniflor', 'Vila Alta', 'Xambrê',
+)
+
 ddd45 = (
     'Anahy', 'Boa Vista Da Aparecida', 'Braganey', 'Cafelândia', 'Campo Bonito', 'Capitão Leônidas Marques', 'Cascavel',
     'Catanduvas', 'Céu Azul', 'Corbélia', 'Diamante Do Sul', 'Diamante D’oeste', 'Entre Rios Do Oeste',
@@ -558,6 +599,14 @@ def ExDDD41():
 def ExDDD42():
     for i in range(len(ddd42)):
         print(ddd42[i])
+        time.sleep(0.01)
+def ExDDD43():
+    for i in range(len(ddd43)):
+        print(ddd43[i])
+        time.sleep(0.01)
+def ExDDD42():
+    for i in range(len(ddd44)):
+        print(ddd44[i])
         time.sleep(0.01)
 def ExDDD45():
     for i in range(len(ddd45)):
