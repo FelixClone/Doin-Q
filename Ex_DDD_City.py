@@ -1,5 +1,31 @@
 import time
 
+ddd21 = (
+    'Belford Roxo', 'Cachoeiras De Macacu', 'Duque De Caxias', 'Guapimirim', 'Itaboraí', 'Itaguaí',
+    'Japeri', 'Magé', 'Mangaratiba', 'Maricá', 'Mesquita', 'Nilópolis', 'Niterói', 'Nova Iguaçu',
+    'Paracambi', 'Queimados', 'Rio Bonito', 'Rio De Janeiro', 'São Gonçalo', 'São João De Meriti',
+    'Seropédica', 'Tanguá', 'Teresópolis',
+)
+
+ddd22 = (
+    'Aperibé', 'Araruama', 'Armação De Búzios', 'Arraial Do Cabo', 'Bom Jardim', 'Bom Jesus Do Itabapoana',
+    'Cabo Frio', 'Cambuci', 'Campos Dos Goytacazes', 'Cantagalo', 'Carapebus', 'Cardoso Moreira', 'Carmo',
+    'Casimiro De Abreu', 'Conceição De Macabu', 'Cordeiro', 'Duas Barras', 'Iguaba Grande', 'Italva', 'Itaocara',
+    'Itaperuna', 'Laje Do Muriaé', 'Macaé', 'Macuco', 'Miracema', 'Natividade', 'Nova Friburgo', 'Porciúncula',
+    'Quissamã', 'Rio Das Ostras', 'Santa Maria Madalena', 'Santo Antônio De Pádua', 'São Fidélis',
+    'São Francisco De Itabapoana', 'São João Da Barra', 'São José De Ubá', 'São Pedro Da Aldeia',
+    'São Sebastião Do Alto', 'Saquarema', 'Silva Jardim', 'Sumidouro', 'Trajano De Morais',
+    'Varre-Sai',
+)
+
+ddd24 = (
+    'Angra Dos Reis', 'Areal', 'Barra Do Piraí', 'Barra Mansa', 'Comendador Levy Gasparian',
+    'Engenheiro Paulo De Frontin', 'Itatiaia', 'Mendes', 'Miguel Pereira', 'Paraíba Do Sul', 'Parati',
+    'Paty Do Alferes', 'Petrópolis', 'Pinheiral', 'Piraí', 'Porto Real', 'Quatis', 'Resende', 'Rio Claro',
+    'Rio Das Flores', 'São José Do Vale Do Rio Preto', 'Sapucaia', 'Três Rios', 'Valença', 'Vassouras',
+    'Volta Redonda',
+)
+
 ddd27 = (
     "Afonso Cláudio", "Água Doce Do Norte", "Águia Branca", "Alfredo Chaves", "Alto Rio Novo", "Aracruz",
     "Barra De São Francisco", "Boa Esperança", "Brejetuba", "Cariacica", "Colatina", "Conceição Da Barra",
@@ -553,7 +579,18 @@ ddd99 = (
 
 # cities identified by area code
 
-
+def ExDDD21():
+    for i in range(len(ddd21)):
+        print(ddd21[i])
+        time.sleep(0.01)
+def ExDDD22():
+    for i in range(len(ddd22)):
+        print(ddd22[i])
+        time.sleep(0.01)
+def ExDDD24():
+    for i in range(len(ddd24)):
+        print(ddd24[i])
+        time.sleep(0.01)
 def ExDDD27():
     for i in range(len(ddd27)):
         print(ddd27[i])

@@ -94,7 +94,13 @@ while True:
 
     elif search == "ddd":
         ddd_again = int(input("\npor favor digite o ddd: "))
-        if ddd_again == 27:
+        if ddd_again == 21:
+            ExF.Function21()
+        elif ddd_again == 22:
+            ExF.Function22()
+        elif ddd_again == 24:
+            ExF.Function24()
+        elif ddd_again == 27:
             ExF.Function27()
         elif ddd_again == 28:
             ExF.Function28()
