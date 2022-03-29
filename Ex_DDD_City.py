@@ -250,6 +250,43 @@ ddd46 = (
     'Saudade Do Iguaçu', 'Sulina', 'Verê', 'Vitorino',
 )
 
+ddd51 = (
+    'Alto Feliz', 'Alvorada', 'Amaral Ferrador', 'Anta Gorda', 'Arambaré', 'Araricá', 'Arroio Do Meio',
+    'Arroio Do Sal', 'Arroio Do Tigre', 'Arroio Dos Ratos', 'Arvorezinha', 'Balneário Pinhal',
+    'Barão', 'Barão Do Triunfo', 'Barra Do Ribeiro', 'Bom Princípio', 'Bom Retiro Do Sul',
+    'Boqueirão Do Leão', 'Brochier', 'Butiá', 'Cachoeira Do Sul', 'Cachoeirinha', 'Camaquã',
+    'Campo Bom', 'Candelária', 'Canoas', 'Canudos Do Vale', 'Capão Da Canoa', 'Capela De Santana',
+    'Capitão', 'Capivari Do Sul', 'Caraá', 'Cerro Branco', 'Cerro Grande Do Sul', 'Charqueadas',
+    'Chuvisca', 'Cidreira', 'Colinas', 'Coqueiro Baixo', 'Cristal', 'Cruzeiro Do Sul', 'Dois Irmãos',
+    'Dom Feliciano', 'Dom Pedro De Alcântara', 'Doutor Ricardo', 'Eldorado Do Sul', 'Encantado',
+    'Encruzilhada Do Sul', 'Estância Velha', 'Esteio', 'Estrela', 'Estrela Velha', 'Fazenda Vilanova',
+    'Feliz', 'Forquetinha', 'General Câmara', 'Glorinha', 'Gramado Xavier', 'Gravataí', 'Guaíba',
+    'Harmonia', 'Herveiras', 'Ibarama', 'Igrejinha', 'Ilópolis', 'Imbé', 'Imigrante', 'Itapuca',
+    'Itati', 'Ivoti', 'Lagoa Bonita Do Sul', 'Lagoão', 'Lajeado', 'Lindolfo Collor', 'Linha Nova',
+    'Mampituba', 'Maquiné', 'Maratá', 'Mariana Pimentel', 'Marques De Souza', 'Mato Leitão',
+    'Minas Do Leão', 'Montenegro', 'Morrinhos Do Sul', 'Morro Reuter', 'Mostardas', 'Muçum',
+    'Nova Bréscia', 'Nova Hartz', 'Nova Santa Rita', 'Novo Cabrais', 'Novo Hamburgo', 'Osório',
+    'Palmares Do Sul', 'Pântano Grande', 'Pareci Novo', 'Parobé', 'Passa Sete', 'Passo Do Sobrado',
+    'Paverama', 'Poço Das Antas', 'Portão', 'Porto Alegre', 'Pouso Novo', 'Presidente Lucena',
+    'Progresso', 'Putinga', 'Relvado', 'Rio Pardo', 'Riozinho', 'Roca Sales', 'Rolante',
+    'Salvador Do Sul', 'Santa Clara Do Sul', 'Santa Cruz Do Sul', 'Santa Maria Do Herval',
+    'Santo Antônio Da Patrulha', 'São Jerônimo', 'São José Do Hortêncio', 'Sao Jose Do Sul',
+    'São Leopoldo', 'São Pedro Da Serra', 'São Sebastião Do Caí', 'São Vendelino', 'Sapiranga',
+    'Sapucaia Do Sul', 'Segredo', 'Sentinela Do Sul', 'Sério', 'Sertão Santana', 'Sinimbu',
+    'Sobradinho', 'Tabaí', 'Tapes', 'Taquara', 'Taquari', 'Tavares', 'Terra De Areia',
+    'Teutônia', 'Torres', 'Tramandaí', 'Travesseiro', 'Três Cachoeiras', 'Três Coroas',
+    'Três Forquilhas', 'Triunfo', 'Tunas', 'Tupandi', 'Vale Do Sol', 'Vale Real',
+    'Vale Verde', 'Venâncio Aires', 'Vera Cruz', 'Vespasiano Correa', 'Viamão',
+    'Westfalia', 'Xangri-Lá',
+)
+
+ddd53 = (
+    'Acegua', 'Arroio Do Padre', 'Arroio Grande', 'Bagé', 'Candiota', 'Canguçu', 'Capão Do Leão', 'Cerrito',
+    'Chuí', 'Dom Pedrito', 'Herval', 'Hulha Negra', 'Jaguarão', 'Morro Redondo', 'Pedras Altas',
+    'Pedro Osório', 'Pelotas', 'Pinheiro Machado', 'Piratini', 'Rio Grande', 'Santa Vitória Do Palmar',
+    'Santana Da Boa Vista', 'São José Do Norte', 'São Lourenço Do Sul', 'Turuçu',
+)
+
 ddd61 = (
     "Águas Lindas De Goiás – GO", "Brasília – DF", "Cabeceiras – GO", "Cidade Ocidental – GO", "Cristalina – GO",
     "Formosa – GO", "Luziânia – GO", "Novo Gama – GO", "Padre Bernardo – GO", "Planaltina – GO", "Santo Antônio Do Descoberto – GO",
@@ -646,6 +683,14 @@ def ExDDD45():
 def ExDDD46():
     for i in range(len(ddd46)):
         print(ddd46[i])
+        time.sleep(0.01)
+def ExDDD51():
+    for i in range(len(ddd51)):
+        print(ddd51[i])
+        time.sleep(0.01)
+def ExDDD53():
+    for i in range(len(ddd53)):
+        print(ddd53[i])
         time.sleep(0.01)
 def ExDDD61():
     for i in range(len(ddd61)):
