@@ -12,5 +12,4 @@ def OP():
     print("|  LISTAS DE ESTADOS    | estado --list |")
     print("|  LISTAS DE DDD        | ddd --list    |")
     print("|  AJUDA                | --help        |")
-    print("|  Versão               | --version     |")
     print(" --------------------------------------- ")

@@ -198,8 +198,6 @@ while True:
     elif search == "sair":
         break
 
-    elif search == "--version":
-        print("Doin-Q - 0.1")
 # List ddd and states sequence
 
     elif search == "ddd --list":
