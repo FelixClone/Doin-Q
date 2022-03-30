@@ -130,6 +130,10 @@ while True:
             ExF.Function51()
         elif ddd_again == 53:
             ExF.Function53()
+        elif ddd_again == 54:
+            ExF.Function54()
+        elif ddd_again == 55:
+            ExF.Function55()
         elif ddd_again == 61:
             ExF.Function61()
         elif ddd_again == 62:

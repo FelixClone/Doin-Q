@@ -287,6 +287,75 @@ ddd53 = (
     'Santana Da Boa Vista', 'São José Do Norte', 'São Lourenço Do Sul', 'Turuçu',
 )
 
+ddd54 = (
+    'Água Santa', 'Almirante Tamandare Do Sul', 'Alto Alegre', 'André Da Rocha', 'Antônio Prado',
+    'Aratiba', 'Áurea', 'Barão De Cotegipe', 'Barra Do Rio Azul', 'Barra Funda', 'Barracão',
+    'Barros Cassal', 'Benjamin Constant Do Sul', 'Bento Gonçalves', 'Boa Vista Do Sul',
+    'Bom Jesus', 'Cacique Doble', 'Camargo', 'Cambará Do Sul', 'Campinas Do Sul',
+    'Campos Borges', 'Canela', 'Capao Bonito Do Sul', 'Carazinho', 'Carlos Barbosa',
+    'Carlos Gomes', 'Casca', 'Caseiros', 'Caxias Do Sul', 'Centenário', 'Chapada',
+    'Charrua', 'Ciríaco', 'Colorado', 'Constantina', 'Coqueiros Do Sul', 'Coronel Pilar',
+    'Cotiporã', 'Coxilha', 'Cruzaltense', 'David Canabarro', 'Dois Lajeados', 'Engenho Velho',
+    'Entre Rios Do Sul', 'Erebango', 'Erechim', 'Ernestina', 'Erval Grande', 'Esmeralda',
+    'Espumoso', 'Estação', 'Fagundes Varela', 'Farroupilha', 'Faxinalzinho', 'Flores Da Cunha',
+    'Floriano Peixoto', 'Fontoura Xavier', 'Garibaldi', 'Gaurama', 'Gentil', 'Getúlio Vargas',
+    'Gramado', 'Gramado Dos Loureiros', 'Guabiju', 'Guaporé', 'Ibiaçá', 'Ibiraiaras', 'Ibirapuitã',
+    'Ibirubá', 'Ipê', 'Ipiranga Do Sul', 'Itatiba Do Sul', 'Jacutinga', 'Jaquirana', 'Lagoa Dos Três Cantos',
+    'Lagoa Vermelha', 'Machadinho', 'Marau', 'Marcelino Ramos', 'Mariano Moro', 'Mato Castelhano',
+    'Maximiliano De Almeida', 'Montauri', 'Monte Alegre Dos Campos', 'Monte Belo Do Sul', 'Mormaço',
+    'Muitos Capões', 'Muliterno', 'Não-Me-Toque', 'Nicolau Vergueiro', 'Nonoai', 'Nova Alvorada',
+    'Nova Araçá', 'Nova Bassano', 'Nova Boa Vista', 'Nova Pádua', 'Nova Petrópolis', 'Nova Prata',
+    'Nova Roma Do Sul', 'Novo Xingu', 'Paim Filho', 'Paraí', 'Passo Fundo', 'Paulo Bento', 'Picada Café',
+    'Pinhal Da Serra', 'Pinto Bandeira', 'Pontão', 'Ponte Preta', 'Protásio Alves', 'Quatro Irmaos',
+    'Quinze De Novembro', 'Rio Dos Indios', 'Ronda Alta', 'Rondinha', 'Sananduva', 'Santa Cecilia Do Sul',
+    'Santa Tereza', 'Santo Antônio Do Palma', 'Santo Antônio Do Planalto', 'Santo Expedito Do Sul',
+    'São Domingos Do Sul', 'São Francisco De Paula', 'São João Da Urtiga', 'São Jorge', 'São José Do Herval',
+    'São José Do Ouro', 'São José Dos Ausentes', 'São Marcos', 'São Valentim', 'São Valentim Do Sul',
+    'Sarandi', 'Selbach', 'Serafina Corrêa', 'Sertão', 'Severiano De Almeida', 'Soledade', 'Tapejara',
+    'Tapera', 'Tio Hugo', 'Três Arroios', 'Três Palmeiras', 'Trindade Do Sul', 'Tupanci Do Sul',
+    'União Da Serra', 'Vacaria', 'Vanini', 'Veranópolis', 'Viadutos', 'Victor Graeff', 'Vila Flores',
+    'Vila Lângaro', 'Vila Maria', 'Vista Alegre Do Prata',
+)
+
+ddd55 = (
+    'Agudo', 'Ajuricaba', 'Alecrim', 'Alegrete', 'Alegria', 'Alpestre', 'Ametista Do Sul',
+    'Augusto Pestana','Barra Do Guarita', 'Barra Do Quaraí', 'Boa Vista Das Missões',
+    'Boa Vista Do Buricá', 'Boa Vista Do Cadeado', 'Boa Vista Do Incra', 'Bom Progresso',
+    'Bossoroca', 'Bozano', 'Braga', 'Caçapava Do Sul', 'Cacequi', 'Caibaté', 'Caiçara',
+    'Campina Das Missões', 'Campo Novo', 'Cândido Godói', 'Capao Do Cipo', 'Catuípe',
+    'Cerro Grande', 'Cerro Largo', 'Chiapeta', 'Condor', 'Coronel Barros',
+    'Coronel Bicaco', 'Crissiumal', 'Cristal Do Sul', 'Cruz Alta', 'Derrubadas',
+    'Dezesseis De Novembro', 'Dilermando De Aguiar', 'Dois Irmãos Das Missões',
+    'Dona Francisca', 'Doutor Maurício Cardoso', 'Entre-Ijuís', 'Erval Seco',
+    'Esperança Do Sul', 'Eugênio De Castro', 'Faxinal Do Soturno', 'Formigueiro',
+    'Fortaleza Dos Valos', 'Frederico Westphalen', 'Garruchos', 'Giruá',
+    'Guarani Das Missões', 'Horizontina', 'Humaitá', 'Ijuí', 'Independência',
+    'Inhacorá', 'Iraí', 'Itaara', 'Itacurubi', 'Itaqui', 'Ivorá', 'Jaboticaba',
+    'Jacuizinho', 'Jaguari', 'Jari', 'Jóia', 'Júlio De Castilhos', 'Lajeado Do Bugre',
+    'Lavras Do Sul', 'Liberato Salzano', 'Maçambara', 'Manoel Viana', 'Mata',
+    'Mato Queimado', 'Miraguaí', 'Nova Candelária', 'Nova Esperança Do Sul',
+    'Nova Palma', 'Nova Ramada', 'Novo Barreiro', 'Novo Machado', 'Novo Tiradentes',
+    'Palmeira Das Missões', 'Palmitinho', 'Panambi', 'Paraíso Do Sul', 'Pejuçara',
+    'Pinhal', 'Pinhal Grande', 'Pinheirinho Do Vale', 'Pirapó', 'Planalto',
+    'Porto Lucena', 'Porto Mauá', 'Porto Vera Cruz', 'Porto Xavier', 'Quaraí',
+    'Quevedos', 'Redentora', 'Restinga Seca', 'Rodeio Bonito', 'Rolador',
+    'Roque Gonzales', 'Rosário Do Sul', 'Sagrada Família', 'Saldanha Marinho',
+    'Salto Do Jacuí', 'Salvador Das Missões', 'Santa Bárbara Do Sul',
+    'Santa Margarida Do Sul', 'Santa Maria', 'Santa Rosa',
+    'Santana Do Livramento', 'Santiago', 'Santo Ângelo',
+    'Santo Antônio Das Missões', 'Santo Augusto', 'Santo Cristo', 'São Borja',
+    'São Francisco De Assis', 'São Gabriel', 'São João Do Polêsine', 'São José Das Missões',
+    'São José Do Inhacorá', 'São Luiz Gonzaga', 'São Martinho', 'São Martinho Da Serra',
+    'São Miguel Das Missões', 'São Nicolau', 'São Paulo Das Missões', 'Sao Pedro Das Missões',
+    'São Pedro Do Butiá', 'São Pedro Do Sul', 'São Sepé', 'São Valério Do Sul', 'São Vicente Do Sul',
+    'Seberi', 'Sede Nova', 'Senador Salgado Filho', 'Sete De Setembro', 'Silveira Martins',
+    'Taquaruçu Do Sul', 'Tenente Portela', 'Tiradentes Do Sul', 'Toropi', 'Três De Maio',
+    'Três Passos', 'Tucunduva', 'Tupanciretã', 'Tuparendi', 'Ubiretama', 'Unistalda',
+    'Uruguaiana', 'Vicente Dutra', 'Vila Nova Do Sul', 'Vista Alegre', 'Vista Gaúcha',
+    'Vitória Das Missões',
+
+)
+
 ddd61 = (
     "Águas Lindas De Goiás – GO", "Brasília – DF", "Cabeceiras – GO", "Cidade Ocidental – GO", "Cristalina – GO",
     "Formosa – GO", "Luziânia – GO", "Novo Gama – GO", "Padre Bernardo – GO", "Planaltina – GO", "Santo Antônio Do Descoberto – GO",
@@ -691,6 +760,14 @@ def ExDDD51():
 def ExDDD53():
     for i in range(len(ddd53)):
         print(ddd53[i])
+        time.sleep(0.01)
+def ExDDD54():
+    for i in range(len(ddd54)):
+        print(ddd54[i])
+        time.sleep(0.01)
+def ExDDD55():
+    for i in range(len(ddd55)):
+        print(ddd55[i])
         time.sleep(0.01)
 def ExDDD61():
     for i in range(len(ddd61)):
