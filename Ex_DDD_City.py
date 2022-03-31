@@ -250,6 +250,19 @@ ddd46 = (
     'Saudade Do Iguaçu', 'Sulina', 'Verê', 'Vitorino',
 )
 
+ddd48 = (
+    'Águas Mornas', 'Alfredo Wagner', 'Angelina', 'Anitápolis', 'Antônio Carlos', 'Araranguá', 'Armazém',
+    'Balneário Arroio Do Silva', 'Balneário Gaivota', 'Balneário Rincão', 'Biguaçu', 'Braço Do Norte',
+    'Canelinha', 'Capivari De Baixo', 'Cocal Do Sul', 'Criciúma', 'Ermo', 'Florianópolis', 'Forquilhinha',
+    'Garopaba', 'Governador Celso Ramos', 'Grão Pará', 'Gravatal', 'Içara', 'Imaruí', 'Imbituba', 'Jacinto Machado',
+    'Jaguaruna', 'Laguna', 'Lauro Muller', 'Leoberto Leal', 'Major Gercino', 'Maracajá', 'Meleiro', 'Morro Da Fumaça',
+    'Morro Grande', 'Nova Trento', 'Nova Veneza', 'Orleans', 'Palhoça', 'Passo De Torres', 'Paulo Lopes', 'Pedras Grandes',
+    'Pescaria Brava', 'Praia Grande', 'Rancho Queimado', 'Rio Fortuna', 'Sangão', 'Santa Rosa De Lima', 'Santa Rosa Do Sul',
+    'Santo Amaro Da Imperatriz', 'São Bonifácio', 'São João Batista', 'São João Do Sul', 'São José', 'São Ludgero',
+    'São Martinho', 'São Pedro De Alcântara', 'Siderópolis', 'Sombrio', 'Tijucas', 'Timbé Do Sul', 'Treviso', 'Treze De Maio',
+    'Tubarão', 'Turvo', 'Urussanga',
+)
+
 ddd51 = (
     'Alto Feliz', 'Alvorada', 'Amaral Ferrador', 'Anta Gorda', 'Arambaré', 'Araricá', 'Arroio Do Meio',
     'Arroio Do Sal', 'Arroio Do Tigre', 'Arroio Dos Ratos', 'Arvorezinha', 'Balneário Pinhal',
@@ -752,6 +765,10 @@ def ExDDD45():
 def ExDDD46():
     for i in range(len(ddd46)):
         print(ddd46[i])
+        time.sleep(0.01)
+def ExDDD48():
+    for i in range(len(ddd48)):
+        print(ddd48[i])
         time.sleep(0.01)
 def ExDDD51():
     for i in range(len(ddd51)):

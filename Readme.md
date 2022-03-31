@@ -6,7 +6,8 @@
 <a href="#visualização-do-aplicativo">Visualização do aplicativo</a> ⚬
 <a href="#sobre">Sobre</a> ⚬
 <a href="#funcionalidades">Funcionalidades</a> ⚬
-<a href="#pre-requisitos">Pre-requisitos</a> 
+<a href="#pre-requisitos">Pre-requisitos</a> ⚬
+<a href="#obs">OBS</a>
 
 
 
@@ -46,4 +47,8 @@ para saber as opções
 ## Pre-requisitos
 
 - **python3** 
+
+## Obs
+
+Diminuirei as atualizações para limpar o código 
 
