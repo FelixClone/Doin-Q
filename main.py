@@ -126,6 +126,8 @@ while True:
             ExF.Function45()
         elif ddd_again == 46:
             ExF.Function46()
+        elif ddd_again == 47:
+            ExF.Function47()
         elif ddd_again == 48:
             ExF.Function48()
         elif ddd_again == 51:
