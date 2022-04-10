@@ -277,6 +277,33 @@ ddd48 = (
     'Tubarão', 'Turvo', 'Urussanga',
 )
 
+ddd49 = (
+    'Abdon Batista', 'Abelardo Luz', 'Água Doce', 'Águas De Chapecó', 'Águas Frias', 'Alto Bela Vista',
+    'Anchieta', 'Anita Garibaldi', 'Arabutã', 'Arroio Trinta', 'Arvoredo', 'Bandeirante', 'Barra Bonita',
+    'Belmonte', 'Bocaina Do Sul', 'Bom Jardim Da Serra', 'Bom Jesus', 'Bom Jesus Do Oeste',
+    'Bom Retiro', 'Brunópolis', 'Caçador', 'Caibi', 'Calmon', 'Campo Belo Do Sul', 'Campo Erê',
+    'Campos Novos', 'Capão Alto', 'Capinzal', 'Catanduvas', 'Caxambu Do Sul', 'Celso Ramos',
+    'Cerro Negro', 'Chapecó', 'Concórdia', 'Cordilheira Alta', 'Coronel Freitas', 'Coronel Martins',
+    'Correia Pinto', 'Cunha Porã', 'Cunhataí', 'Curitibanos', 'Descanso', 'Dionísio Cerqueira',
+    'Entre Rios', 'Erval Velho', 'Faxinal Dos Guedes', 'Flor Do Sertão', 'Formosa Do Sul',
+    'Fraiburgo', 'Frei Rogério', 'Galvão', 'Guaraciaba', 'Guarujá Do Sul', 'Guatambú',
+    'Herval D`oeste', 'Ibiam', 'Ibicaré', 'Iomerê', 'Ipira', 'Iporã Do Oeste', 'Ipuaçu',
+    'Ipumirim', 'Iraceminha', 'Irani', 'Irati', 'Itá', 'Itapiranga', 'Jaborá', 'Jardinópolis',
+    'Joaçaba', 'Jupiá', 'Lacerdópolis', 'Lages', 'Lajeado Grande', 'Lebon Régis', 'Lindóia Do Sul',
+    'Luzerna', 'Macieira', 'Maravilha', 'Marema', 'Matos Costa', 'Modelo', 'Mondaí', 'Monte Carlo',
+    'Nova Erechim', 'Nova Itaberaba', 'Novo Horizonte', 'Otacílio Costa', 'Ouro', 'Ouro Verde',
+    'Paial', 'Painel', 'Palma Sola', 'Palmeira', 'Palmitos', 'Paraíso', 'Passos Maia', 'Peritiba',
+    'Pinhalzinho', 'Pinheiro Preto', 'Piratuba', 'Planalto Alegre', 'Ponte Alta', 'Ponte Alta Do Norte',
+    'Ponte Serrada', 'Presidente Castelo Branco', 'Princesa', 'Quilombo', 'Rio Das Antas', 'Rio Rufino',
+    'Riqueza', 'Romelândia', 'Saltinho', 'Salto Veloso', 'Santa Cecília', 'Santa Helena', 'Santa Terezinha Do Progresso',
+    'Santiago Do Sul', 'São Bernardino', 'São Carlos', 'São Cristovão Do Sul', 'São Domingos',
+    'São Joaquim', 'São José Do Cedro', 'São José Do Cerrito', 'São Lourenço Do Oeste',
+    'São Miguel Da Boa Vista', 'São Miguel D`oeste', 'Saudades', 'Seara', 'Serra Alta',
+    'Sul Brasil', 'Tangará', 'Tigrinhos', 'Timbó Grande', 'Treze Tílias', 'Tunápolis',
+    'União Do Oeste', 'Urubici', 'Urupema', 'Vargeão', 'Vargem', 'Vargem Bonita',
+    'Videira', 'Xanxerê', 'Xavantina', 'Xaxim', 'Zortéa',
+)
+
 ddd51 = (
     'Alto Feliz', 'Alvorada', 'Amaral Ferrador', 'Anta Gorda', 'Arambaré', 'Araricá', 'Arroio Do Meio',
     'Arroio Do Sal', 'Arroio Do Tigre', 'Arroio Dos Ratos', 'Arvorezinha', 'Balneário Pinhal',
@@ -787,6 +814,10 @@ def ExDDD47():
 def ExDDD48():
     for i in range(len(ddd48)):
         print(ddd48[i])
+        time.sleep(0.01)
+def ExDDD49():
+    for i in range(len(ddd49)):
+        print(ddd49[i])
         time.sleep(0.01)
 def ExDDD51():
     for i in range(len(ddd51)):
