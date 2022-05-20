@@ -1,6 +1,6 @@
 # Doin-cli
 <h4 align="center">
-   ⚠ Projeto em andamento ⚠
+   ⚠ Projeto Pausado ⚠
 </h4>
 <p align="center">
 <a href="#visualização-do-aplicativo">Visualização do aplicativo</a> ⚬
@@ -50,5 +50,5 @@ para saber as opções
 
 ## Obs
 
-Diminuirei as atualizações para limpar o código 
+### Este programa esta em processo de migração, será reescrito.
 
